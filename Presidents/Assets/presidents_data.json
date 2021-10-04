@@ -1,0 +1,2893 @@
+{
+  "George Washington": {
+    "born": "1732-02-22",
+    "died": "1799-12-14",
+    "cause_of_death": "Epiglottitis",
+    "resting_place": "Family vault, Mount Vernon, Virginia",
+    "political_party": "Independent",
+    "parents": [
+      "Augustine Washington",
+      "Mary Ball Washington"
+    ],
+    "children": [
+      "John Parke Custis (adopted)"
+    ],
+    "spouses": [
+      "Martha Dandridge"
+    ],
+    "vice_president": [
+      "John Adams (1789-1797)"
+    ],
+    "start_term": "1789-04-30",
+    "end_term": "1797-03-04",
+    "location_died": "Mount Vernon, Virginia,  U.S.",
+    "secretary_of_state": [
+      "John Jay (acting) (1789-1790)",
+      "Thomas Jefferson (1790-1793)",
+      "Edmund Randolph (1794-1795)",
+      "Timothy Pickering (1795-1797)"
+    ],
+    "secretary_of_the_treasury": [
+      "Alexander Hamilton (1789-1795)",
+      "Oliver Wolcott Jr. (1795-1797)"
+    ],
+    "secretary_of_war": [
+      "Henry Knox (1789-1794)",
+      "Timothy Pickering (1795)",
+      "James McHenry (1796-1797)"
+    ],
+    "attorney_general": [
+      "Edmund Randolph (1789-1794)",
+      "William Bradford (1794-1795)",
+      "Charles Lee (1795-1797)"
+    ],
+    "birth_place": "Pope's Creek, Virginia",
+    "full_name": "George Washington",
+    "religion": "Episcopalian",
+    "education": "The equivalent of an elementary school education",
+    "nickname": [
+      "Father of His Country"
+    ],
+    "career": "Soldier, Planter"
+  },
+  "John Adams": {
+    "born": "1735-10-30",
+    "died": "1826-07-04",
+    "cause_of_death": null,
+    "resting_place": "Quincy, Massachusetts",
+    "political_party": "Federalist",
+    "parents": [
+      "John Adams Sr.",
+      "Susanna Boylston"
+    ],
+    "children": [
+      "Abigail",
+      "John Quincy",
+      "Charles",
+      "Thomas"
+    ],
+    "spouses": [
+      "Abigail Smith"
+    ],
+    "vice_president": [
+      "Thomas Jefferson (1797-1801)"
+    ],
+    "start_term": "1797-03-04",
+    "end_term": "1801-03-04",
+    "location_died": "Quincy, Massachusetts",
+    "secretary_of_state": [
+      "Timothy Pickering (1797-1800)",
+      "John Marshall (1800-1801)"
+    ],
+    "secretary_of_the_treasury": [
+      "Oliver Wolcott Jr. (1797-1800)",
+      "Samuel Dexter (1801)"
+    ],
+    "secretary_of_war": [
+      "James McHenry (1797-1800)",
+      "Samuel Dexter (1800-1801)"
+    ],
+    "attorney_general": [
+      "Charles Lee (1797-1801)"
+    ],
+    "secretary_of_the_navy": [
+      "Benjamin Stoddert (1798-1801)"
+    ],
+    "birth_place": "North Precinct of Braintree (now Quincy), Massachusetts",
+    "full_name": null,
+    "religion": "Unitarian",
+    "education": "Harvard College (graduated 1755)",
+    "nickname": [
+      "Atlas of Independence"
+    ],
+    "career": "Lawyer"
+  },
+  "Thomas Jefferson": {
+    "born": "1743-04-13",
+    "died": "1826-07-04",
+    "cause_of_death": null,
+    "resting_place": "Monticello, near Charlottesville, Virginia ",
+    "political_party": "Democratic-Republican",
+    "parents": null,
+    "children": [
+      "Martha Jefferson Randolph",
+      "Mary Jefferson Eppes",
+      "Madison Hemings",
+      "Eston Hemings"
+    ],
+    "spouses": [
+      "Martha Wayles"
+    ],
+    "vice_president": [
+      "Aaron Burr (1801-1805)",
+      "George Clinton (1805-1809)"
+    ],
+    "start_term": "1801-03-04",
+    "end_term": "1809-03-04",
+    "location_died": "Charlottesville, Virginia",
+    "secretary_of_state": [
+      "James Madison (1801-1809)"
+    ],
+    "secretary_of_the_treasury": [
+      "Samuel Dexter (1801)",
+      "Albert Gallatin (1801-1809)"
+    ],
+    "secretary_of_war": [
+      "Henry Dearborn (1801-1809)"
+    ],
+    "attorney_general": [
+      "Levi Lincoln Sr. (1801-1805)",
+      "John Breckinridge (1805-1806)",
+      "Caesar Augustus Rodney (1807-1809)"
+    ],
+    "secretary_of_the_navy": [
+      "Benjamin Stoddert (1801)",
+      "Robert Smith (1801-1809)"
+    ],
+    "birth_place": "Shadwell plantation, Goochland County, Virginia",
+    "full_name": "Thomas Jefferson",
+    "religion": "No formal affiliation",
+    "education": "College of William and Mary (graduated 1762)",
+    "nickname": [
+      "Man of the People",
+      "Sage of Monticello"
+    ],
+    "career": "Lawyer, Planter"
+  },
+  "James Madison": {
+    "born": "1751-03-16",
+    "died": "1836-06-28",
+    "cause_of_death": "Congestive heart failure",
+    "resting_place": " Montpelier, Orange County, Virginia",
+    "political_party": "Democratic-Republican",
+    "parents": [
+      "James Madison Sr.",
+      "Nelly Madison"
+    ],
+    "children": null,
+    "spouses": [
+      "Dolley Todd"
+    ],
+    "vice_president": [
+      "George Clinton (1809-1812)",
+      "none (1812-1813)",
+      "Elbridge Gerry (1813-1814)",
+      "none (1814-1817)"
+    ],
+    "start_term": "1809-03-04",
+    "end_term": "1817-03-04",
+    "location_died": "Montpelier, Virginia",
+    "secretary_of_state": [
+      "Robert Smith (1809-1811)",
+      "James Monroe (1811-1817)"
+    ],
+    "secretary_of_the_treasury": [
+      "Albert Gallatin (1809-1814)",
+      "George W. Campbell (1814)",
+      "Alexander J. Dallas (1814-1816)",
+      "William H. Crawford (1816-1817)"
+    ],
+    "secretary_of_war": [
+      "William Eustis (1809-1813)",
+      "John Armstrong Jr. (1813-1814)",
+      "James Monroe (1814-1815)",
+      "William H. Crawford (1815-1816)",
+      "George Graham (acting) (1816-1817)"
+    ],
+    "attorney_general": [
+      "Caesar Augustus Rodney (1809-1811)",
+      "William Pinkney (1811-1814)",
+      "Richard Rush (1814-1817)"
+    ],
+    "secretary_of_the_navy": [
+      "Paul Hamilton (1809-1813)",
+      "William Jones (1813-1814)",
+      "Benjamin Williams Crowninshield (1815-1817)"
+    ],
+    "birth_place": "Port Conway, Virginia",
+    "full_name": "James Madison",
+    "religion": "Episcopalian",
+    "education": "College of New Jersey (now Princeton University, graduated 1771)",
+    "nickname": [
+      "Father of the Constitution"
+    ],
+    "career": "Politician, Planter"
+  },
+  "James Monroe": {
+    "born": "1758-04-28",
+    "died": "1831-07-04",
+    "cause_of_death": "Tuberculosis",
+    "resting_place": "New York City, New York",
+    "political_party": "Democratic-Republican",
+    "parents": null,
+    "children": [
+      "Eliza"
+    ],
+    "spouses": [
+      "Elizabeth Kortright"
+    ],
+    "vice_president": [
+      "Daniel D. Tompkins (1817-1825)"
+    ],
+    "start_term": "1817-03-04",
+    "end_term": "1825-03-04",
+    "location_died": "New York City",
+    "secretary_of_state": [
+      "Richard Rush (acting) (1817)",
+      "John Quincy Adams (1817-1825)"
+    ],
+    "secretary_of_the_treasury": [
+      "William H. Crawford (1817-1825)"
+    ],
+    "secretary_of_war": [
+      "George Graham (acting) (1817)",
+      "John C. Calhoun (1817-1825)"
+    ],
+    "attorney_general": [
+      "Richard Rush (1817)",
+      "William Wirt (1817-1825)"
+    ],
+    "secretary_of_the_navy": [
+      "Benjamin Williams Crowninshield (1817-1818)",
+      "Smith Thompson (1819-1823)",
+      "Samuel L. Southard (1823-1825)"
+    ],
+    "birth_place": "Westmoreland County, Virginia",
+    "full_name": "James Monroe",
+    "religion": "Episcopalian",
+    "education": "College of William and Mary (graduated 1776)",
+    "nickname": [
+      "The Last Cocked Hat",
+      "Era-of-Good-Feelings President"
+    ],
+    "career": "Lawyer"
+  },
+  "John Quincy Adams": {
+    "born": "1767-07-11",
+    "died": "1848-02-23",
+    "cause_of_death": "Cerebral hemorrhage",
+    "resting_place": "First Unitarian Church, Quincy, Massachusetts",
+    "political_party": "Federalist, Democratic-Republican, Whig",
+    "parents": [
+      "John Adams",
+      "Abigail Smith"
+    ],
+    "children": [
+      "George",
+      "John",
+      "Charles",
+      "Louisa"
+    ],
+    "spouses": [
+      "Louisa Johnson"
+    ],
+    "vice_president": [
+      "John C. Calhoun (1825-1829)"
+    ],
+    "start_term": "1825-03-04",
+    "end_term": "1829-03-04",
+    "location_died": "Washington, D.C.",
+    "secretary_of_state": [
+      "Henry Clay (1825-1829)"
+    ],
+    "secretary_of_the_treasury": [
+      "Richard Rush (1825-1829)"
+    ],
+    "secretary_of_war": [
+      "James Barbour (1825-1828)",
+      "Peter Buell Porter (1828-1829)"
+    ],
+    "attorney_general": [
+      "William Wirt (1825-1829)"
+    ],
+    "secretary_of_the_navy": [
+      "Samuel L. Southard (1825-1829)"
+    ],
+    "birth_place": "Braintree (now Quincy), Massachusetts",
+    "full_name": "John Quincy Adams",
+    "religion": "Unitarian",
+    "education": "Harvard College (graduated 1787)",
+    "nickname": [
+      "Old Man Eloquent"
+    ],
+    "career": "Lawyer, Senator, Diplomat"
+  },
+  "Andrew Jackson": {
+    "born": "1767-03-15",
+    "died": "1845-06-08",
+    "cause_of_death": "Dropsy and heart failure",
+    "resting_place": "The Hermitage, Nashville, Tennessee ",
+    "political_party": "Democrat",
+    "parents": null,
+    "children": [
+      "3 adopted sons"
+    ],
+    "spouses": [
+      "Rachel Donelson"
+    ],
+    "vice_president": [
+      "John C. Calhoun (1829-1832)",
+      "Martin Van Buren (1833-1837)"
+    ],
+    "start_term": "1829-03-04",
+    "end_term": "1837-03-04",
+    "location_died": "Nashville, Tennessee",
+    "secretary_of_state": [
+      "Martin Van Buren (1829-1831)",
+      "Edward Livingston (1831-1833)",
+      "Louis McLane (1833-1834)",
+      "John Forsyth (1834-1837)"
+    ],
+    "secretary_of_the_treasury": [
+      "Samuel D. Ingham (1829-1831)",
+      "Louis McLane (1831-1833)",
+      "William J. Duane (1833)",
+      "Roger B. Taney (1833-1834)",
+      "Levi Woodbury (1834-1837)"
+    ],
+    "secretary_of_war": [
+      "John Eaton (1829-1831)",
+      "Lewis Cass (1831-1836)"
+    ],
+    "attorney_general": [
+      "John M. Berrien (1829-1831)",
+      "Roger B. Taney (1831-1833)",
+      "Benjamin Franklin Butler (1833-1837)"
+    ],
+    "secretary_of_the_navy": [
+      "John Branch (1829-1831)",
+      "Levi Woodbury (1831-1834)",
+      "Mahlon Dickerson (1834-1837)"
+    ],
+    "birth_place": "Waxhaw area, on North Carolina-South Carolina border",
+    "full_name": "Andrew Jackson",
+    "religion": "Presbyterian",
+    "nickname": [
+      "Old Hickory"
+    ],
+    "career": "Lawyer, Soldier"
+  },
+  "Martin Van Buren": {
+    "born": "1782-12-05",
+    "died": "1862-07-24",
+    "cause_of_death": "Bronchial asthma and heart failure",
+    "resting_place": "Kinderhook Cemetery, Kinderhook, New York",
+    "political_party": "Democrat",
+    "parents": [
+      "Abraham Van Buren",
+      "Maria Hoes Van Alen"
+    ],
+    "children": [
+      "Abraham and John"
+    ],
+    "spouses": [
+      "Hannah Hoes"
+    ],
+    "vice_president": [
+      "Richard Mentor Johnson (1837-1841)"
+    ],
+    "start_term": "1837-03-04",
+    "end_term": "1841-03-04",
+    "location_died": "Kinderhook, New York",
+    "secretary_of_state": [
+      "John Forsyth (1837-1841)"
+    ],
+    "secretary_of_the_treasury": [
+      "Levi Woodbury (1837-1841)"
+    ],
+    "secretary_of_war": [
+      "Joel Roberts Poinsett (1837-1841)"
+    ],
+    "attorney_general": [
+      "Benjamin Franklin Butler (1837-1838)",
+      "Felix Grundy (1838-1840)",
+      "Henry D. Gilpin (1840-1841)"
+    ],
+    "secretary_of_the_navy": [
+      "Mahlon Dickerson (1837-1838)",
+      "James Kirke Paulding (1838-1841)"
+    ],
+    "birth_place": "Kinderhook, New York",
+    "full_name": "Martin Van Buren",
+    "religion": "Dutch Reformed",
+    "education": "Kinderhook Academy (graduated 1796)",
+    "nickname": [
+      "The Little Magician",
+      "The Red Fox of Kinderhook"
+    ],
+    "career": "Lawyer"
+  },
+  "William Henry Harrison": {
+    "born": "1773-02-09",
+    "died": "1841-04-04",
+    "cause_of_death": "Pneumonia",
+    "resting_place": "William Henry Harrison Memorial State Park, North Bend, Ohio",
+    "political_party": "Whig",
+    "parents": null,
+    "children": [
+      "1 John and Carter"
+    ],
+    "spouses": [
+      "Anna Symmes"
+    ],
+    "vice_president": [
+      "John Tyler (1841)"
+    ],
+    "start_term": "1841-03-04",
+    "end_term": "1841-04-04",
+    "location_died": "Washington, D.C.",
+    "secretary_of_state": [
+      "Daniel Webster (1841)"
+    ],
+    "secretary_of_the_treasury": [
+      "Thomas Ewing (1841)"
+    ],
+    "secretary_of_war": [
+      "John Bell (1841)"
+    ],
+    "attorney_general": [
+      "John J. Crittenden (1841)"
+    ],
+    "secretary_of_the_navy": [
+      "George Edmund Badger (1841)"
+    ],
+    "birth_place": "Berkeley plantation, Charles City County, Virginia",
+    "full_name": "William Henry Harrison",
+    "religion": "Episcopalian",
+    "education": "Hampden-Sydney College",
+    "nickname": [
+      "Old Tippecanoe; Old Tip"
+    ],
+    "career": "Soldier"
+  },
+  "John Tyler": {
+    "born": "1790-03-29",
+    "died": "1862-01-18",
+    "cause_of_death": "Stroke",
+    "resting_place": "Hollywood Cemetery, Richmond, Virginia",
+    "political_party": "Democrat, Whig",
+    "parents": [
+      "John Tyler Sr.",
+      "Mary Armistead"
+    ],
+    "children": [
+      "1 Letitia",
+      "Robert",
+      "David",
+      "John Alexander",
+      "and Lyon Tyler"
+    ],
+    "spouses": [
+      "Letitia Christian",
+      "Julia Gardiner"
+    ],
+    "vice_president": [
+      "none (1841-1845)"
+    ],
+    "start_term": "1841-04-04",
+    "end_term": "1845-03-04",
+    "location_died": "Richmond, Virginia",
+    "secretary_of_state": [
+      "Daniel Webster (1841-1843)",
+      "Abel P. Upshur (1843-1844)",
+      "John C. Calhoun (1844-1845)"
+    ],
+    "secretary_of_the_treasury": [
+      "Thomas Ewing (1841)",
+      "Walter Forward (1841-1843)",
+      "John Canfield Spencer (1843-1844)",
+      "George M. Bibb (1844-1845)"
+    ],
+    "secretary_of_war": [
+      "John Bell (1841)",
+      "John Canfield Spencer (1841-1843)",
+      "James Madison Porter (1843-1844)",
+      "William Wilkins (1844-1845)"
+    ],
+    "attorney_general": [
+      "John J. Crittenden (1841)",
+      "Hugh S. Legare (1841-1843)",
+      "John Nelson (1843-1845)"
+    ],
+    "secretary_of_the_navy": [
+      "George Edmund Badger (1841)",
+      "Abel P. Upshur (1841-1843)",
+      "David Henshaw (1843-1844)",
+      "Thomas Walker Gilmer (1844)",
+      "John Y. Mason (1844-1845)"
+    ],
+    "birth_place": "Charles City County, Virginia",
+    "full_name": null,
+    "religion": "Episcopalian",
+    "education": "College of William and Mary (graduated 1807)",
+    "nickname": [
+      "Accidental President; His Accidency"
+    ],
+    "career": "Lawyer"
+  },
+  "James K. Polk": {
+    "born": "1795-11-02",
+    "died": "1849-06-15",
+    "cause_of_death": "Cholera",
+    "resting_place": "State Capitol Grounds, Nashville, Tennessee",
+    "political_party": "Democrat",
+    "parents": [
+      "Samuel Polk",
+      "Jane Knox"
+    ],
+    "children": null,
+    "spouses": [
+      "Sarah Childress"
+    ],
+    "vice_president": [
+      "George M. Dallas (1845-1849)"
+    ],
+    "start_term": "1845-03-04",
+    "end_term": "1849-03-05",
+    "location_died": "Nashville, Tennessee",
+    "secretary_of_state": [
+      "James Buchanan (1845-1849)"
+    ],
+    "secretary_of_the_treasury": [
+      "Robert J. Walker (1845-1849)"
+    ],
+    "secretary_of_war": [
+      "William L. Marcy (1845-1849)"
+    ],
+    "attorney_general": [
+      "John Y. Mason (1845-1846)",
+      "Nathan Clifford (1846-1848)",
+      "Isaac Toucey (1848-1849)"
+    ],
+    "secretary_of_the_navy": [
+      "George Bancroft (1845-1846)",
+      "John Y. Mason (1846-1849)"
+    ],
+    "birth_place": "Mecklenburg County, North Carolina",
+    "full_name": "James Knox Polk",
+    "religion": "Presbyterian",
+    "education": "University of North Carolina (graduated 1818)",
+    "nickname": [
+      "Young Hickory"
+    ],
+    "career": "Lawyer"
+  },
+  "Zachary Taylor": {
+    "born": "1784-11-24",
+    "died": "1850-07-09",
+    "cause_of_death": "Stomach disease",
+    "resting_place": "Zachary Taylor National Cemetery, near Louisville, Kentucky",
+    "political_party": "Whig",
+    "parents": [
+      "Richard Taylor",
+      "Sarah Dabney Strother"
+    ],
+    "children": [
+      "Sarah",
+      "Mary",
+      "and Richard"
+    ],
+    "spouses": [
+      "Margaret Smith"
+    ],
+    "vice_president": [
+      "Millard Fillmore (1849-1850)"
+    ],
+    "start_term": "1849-03-05",
+    "end_term": "1850-07-09",
+    "location_died": "Washington, D.C.",
+    "secretary_of_state": [
+      "John M. Clayton (1849-1850)"
+    ],
+    "secretary_of_the_treasury": [
+      "William M. Meredith (1849-1850)"
+    ],
+    "secretary_of_war": [
+      "George W. Crawford (1849-1850)"
+    ],
+    "attorney_general": [
+      "Reverdy Johnson (1849-1850)"
+    ],
+    "secretary_of_the_navy": [
+      "William Ballard Preston (1849-1850)"
+    ],
+    "secretary_of_the_interior": [
+      "Thomas Ewing (1849-1850)"
+    ],
+    "birth_place": " near Barboursville, Virginia",
+    "full_name": "Zachary Taylor",
+    "religion": "Episcopalian",
+    "nickname": [
+      "Old Rough and Ready"
+    ],
+    "career": "Soldier"
+  },
+  "Millard Fillmore": {
+    "born": "1800-01-07",
+    "died": "1874-03-08",
+    "cause_of_death": null,
+    "resting_place": "Forest Lawn Cemetery, Buffalo, New York",
+    "political_party": "Whig",
+    "parents": [
+      "Nathaniel Fillmore",
+      "Phoebe Millard"
+    ],
+    "children": [
+      "Millard",
+      "Mary"
+    ],
+    "spouses": [
+      "Abigail Powers",
+      "Caroline McIntosh"
+    ],
+    "vice_president": [
+      "none (1850-1853)"
+    ],
+    "start_term": "1850-07-10",
+    "end_term": "1853-03-04",
+    "location_died": "Buffalo, New York",
+    "secretary_of_state": [
+      "John M. Clayton (1850)",
+      "Daniel Webster (1850-1852)",
+      "Edward Everett (1852-1853)"
+    ],
+    "secretary_of_the_treasury": [
+      "William M. Meredith (1850)",
+      "Thomas Corwin (1850-1853)"
+    ],
+    "secretary_of_war": [
+      "George W. Crawford (1850)",
+      "Charles Magill Conrad (1850-1853)"
+    ],
+    "attorney_general": [
+      "Reverdy Johnson (1850)",
+      "John J. Crittenden (1850-1853)"
+    ],
+    "secretary_of_the_navy": [
+      "William Ballard Preston (1850)",
+      "William Alexander Graham (1850-1852)",
+      "John P. Kennedy (1852-1853)"
+    ],
+    "secretary_of_the_interior": [
+      "Thomas Ewing (1850)",
+      "Thomas McKennan (1850)",
+      "Alexander Stuart (1850-1853)"
+    ],
+    "birth_place": "Summerhill, New York",
+    "full_name": null,
+    "religion": "Unitarian",
+    "education": "Six months of grade school; read law in 1822",
+    "nickname": [
+      "The American Louis Philippe"
+    ],
+    "career": "Lawyer"
+  },
+  "Franklin Pierce": {
+    "born": "1804-11-23",
+    "died": "1869-10-08",
+    "cause_of_death": "Cirrhosis of the liver",
+    "resting_place": "Old North Cemetery, Concord, New Hampshire",
+    "political_party": "Democrat",
+    "parents": null,
+    "children": [
+      "3"
+    ],
+    "spouses": [
+      "Jane Appleton"
+    ],
+    "vice_president": [
+      "William R. King (1853)",
+      "none (1853-1857)"
+    ],
+    "start_term": "1853-03-04",
+    "end_term": "1857-03-04",
+    "location_died": "Concord, New Hampshire",
+    "secretary_of_state": [
+      "William L. Marcy (1853-1857)"
+    ],
+    "secretary_of_the_treasury": [
+      "James Guthrie (1853-1857)"
+    ],
+    "secretary_of_war": [
+      "Jefferson Davis (1853-1857)"
+    ],
+    "attorney_general": [
+      "Caleb Cushing (1853-1857)"
+    ],
+    "secretary_of_the_navy": [
+      "James C. Dobbin (1853-1857)"
+    ],
+    "secretary_of_the_interior": [
+      "Robert McClelland (1853-1857)"
+    ],
+    "birth_place": "Hillsborough (now Hillsboro), New Hampshire",
+    "full_name": null,
+    "religion": "Episcopalian",
+    "education": "Bowdoin College (graduated 1824)",
+    "nickname": [
+      "Young Hickory of the Granite Hills"
+    ],
+    "career": "Lawyer, Public Official"
+  },
+  "James Buchanan": {
+    "born": "1791-04-23",
+    "died": "1868-06-01",
+    "cause_of_death": null,
+    "resting_place": "Woodward Hill Cemetery, Lancaster, Pennsylvania",
+    "political_party": "Democrat",
+    "parents": null,
+    "children": null,
+    "spouses": null,
+    "vice_president": [
+      "John C. Breckinridge (1857-1861)"
+    ],
+    "start_term": "1857-03-04",
+    "end_term": "1861-03-04",
+    "location_died": "Lancaster, Pennsylvania",
+    "secretary_of_state": [
+      "Lewis Cass (1857-1860)",
+      "Jeremiah S. Black (1860-1861)"
+    ],
+    "secretary_of_the_treasury": [
+      "Howell Cobb (1857-1860)",
+      "Philip Francis Thomas (1860-1861)",
+      "John Adams Dix (1861)"
+    ],
+    "secretary_of_war": [
+      "John B. Floyd (1857-1860)",
+      "Joseph Holt (1861)"
+    ],
+    "attorney_general": [
+      "Jeremiah S. Black (1857-1860)",
+      "Edwin Stanton (1860-1861)"
+    ],
+    "secretary_of_the_navy": [
+      "Isaac Toucey (1857-1861)"
+    ],
+    "secretary_of_the_interior": [
+      "Jacob Thompson (1857-1861)"
+    ],
+    "birth_place": "Cove Gap (near Mercersburg), Pennsylvania",
+    "full_name": null,
+    "religion": "Presbyterian",
+    "education": "Dickinson College (graduated 1809)",
+    "nickname": [
+      "Old Buck"
+    ],
+    "career": "Lawyer"
+  },
+  "Abraham Lincoln": {
+    "born": "1809-02-12",
+    "died": "1865-04-15",
+    "cause_of_death": "Assassination(gunshot wound to the head)",
+    "resting_place": "Oak Ridge Cemetery, Springfield, Illinois",
+    "political_party": "Whig; Republican",
+    "parents": null,
+    "children": [
+      "Robert",
+      "Edward",
+      "Willie",
+      "Tad"
+    ],
+    "spouses": [
+      "Mary Todd"
+    ],
+    "vice_president": null,
+    "start_term": "1861-03-04",
+    "end_term": "1865-04-15",
+    "location_died": "Washington, D.C.",
+    "secretary_of_state": [
+      "William H. Seward (1861-1865)"
+    ],
+    "secretary_of_the_treasury": [
+      "Salmon P. Chase (1861-1864)",
+      "William P. Fessenden (1864-1865)",
+      "Hugh McCulloch (1865)"
+    ],
+    "secretary_of_war": [
+      "Simon Cameron (1861-1862)",
+      "Edwin Stanton (1862-1865)"
+    ],
+    "attorney_general": [
+      "Edward Bates (1861-1864)",
+      "James Speed (1864-1865)"
+    ],
+    "secretary_of_the_navy": [
+      "Gideon Welles (1861-1865)"
+    ],
+    "secretary_of_the_interior": [
+      "Caleb Blood Smith (1861-1862)",
+      "John Palmer Usher (1863-1865)"
+    ],
+    "birth_place": "Hardin (now Larue) County, Kentucky",
+    "full_name": null,
+    "religion": "No formal affiliation",
+    "nickname": [
+      "Honest Abe; Illinois Rail-Splitter"
+    ],
+    "career": "Lawyer"
+  },
+  "Andrew Johnson": {
+    "born": "1808-12-29",
+    "died": "1875-07-31",
+    "cause_of_death": "Stroke",
+    "resting_place": "Greeneville, Tennessee",
+    "political_party": "Democrat; Unionist",
+    "parents": [
+      "Jacob Johnson",
+      "Mary McDonough"
+    ],
+    "children": [
+      "5"
+    ],
+    "spouses": [
+      "Eliza McCardle"
+    ],
+    "vice_president": [
+      "none (1865-1869)"
+    ],
+    "start_term": "1865-04-15",
+    "end_term": "1869-03-04",
+    "location_died": "Elizabethton, Tennessee",
+    "secretary_of_state": [
+      "William H. Seward (1865-1869)"
+    ],
+    "secretary_of_the_treasury": [
+      "Hugh McCulloch (1865-1869)"
+    ],
+    "secretary_of_war": [
+      "Edwin Stanton (1865-1868+)",
+      "John Schofield (1868-1869)"
+    ],
+    "attorney_general": [
+      "James Speed (1865-1866)",
+      "Henry Stanbery (1866-1868)",
+      "William M. Evarts (1868-1869)"
+    ],
+    "secretary_of_the_navy": [
+      "Gideon Welles (1865-1869)"
+    ],
+    "secretary_of_the_interior": [
+      "John Palmer Usher (1865)",
+      "James Harlan (1865-1866)",
+      "Orville Hickman Browning (1866-1869)"
+    ],
+    "birth_place": "Raleigh, North Carolina",
+    "full_name": null,
+    "religion": "No formal affiliation",
+    "nickname": [
+      "None"
+    ],
+    "career": "Tailor; Public Official"
+  },
+  "Ulysses S. Grant": {
+    "born": "1822-04-27",
+    "died": "1885-07-23",
+    "cause_of_death": "Throat cancer",
+    "resting_place": "Grant's Tomb, New York, New York",
+    "political_party": "Republican",
+    "parents": [
+      "Jesse Root Grant",
+      "Hannah Simpson Grant"
+    ],
+    "children": [
+      "Frederick",
+      "Ulysses Jr.",
+      "Nellie",
+      "Jesse"
+    ],
+    "spouses": [
+      "Julia Dent"
+    ],
+    "vice_president": [
+      "Schuyler Colfax (1869-1873)",
+      "Henry Wilson (1873-1875)",
+      "None (1875-1877)"
+    ],
+    "start_term": "1869-03-04",
+    "end_term": "1877-03-05",
+    "location_died": "Wilton, New York",
+    "secretary_of_state": [
+      "Elihu B. Washburne (1869)",
+      "Hamilton Fish (1869-1877)"
+    ],
+    "secretary_of_the_treasury": [
+      "George S. Boutwell (1869-1873)",
+      "William Adams Richardson (1873-1874)",
+      "Benjamin Bristow (1874-1876)",
+      "Lot M. Morrill (1876-1877)"
+    ],
+    "secretary_of_war": [
+      "John Schofield (1869)",
+      "John Aaron Rawlins (1869)",
+      "William W. Belknap (1869-1876)",
+      "Alphonso Taft (1876)",
+      "J. Donald Cameron (1876-1877)"
+    ],
+    "attorney_general": [
+      "Ebenezer R. Hoar (1869-1870)",
+      "Amos T. Akerman (1870-1871)",
+      "George Henry Williams (1871-1875)",
+      "Edwards Pierrepont (1875-1876)",
+      "Alphonso Taft (1876-1877)"
+    ],
+    "secretary_of_the_navy": [
+      "Adolph E. Borie (1869)",
+      "George M. Robeson (1869-1877)"
+    ],
+    "secretary_of_the_interior": [
+      "Jacob Dolson Cox (1869-1870)",
+      "Columbus Delano (1870-1875)",
+      "Zachariah Chandler (1875-1877)"
+    ],
+    "birth_place": "Point Pleasant, Ohio",
+    "full_name": "Ulysses S. Grant",
+    "religion": "Methodist",
+    "education": "U.S. Military Academy, West Point, New York (graduated 1843)",
+    "nickname": [
+      "Hero of Appomattox"
+    ],
+    "career": "Soldier"
+  },
+  "Rutherford B. Hayes": {
+    "born": "1822-10-04",
+    "died": "1893-01-17",
+    "cause_of_death": null,
+    "resting_place": "Spiegel Grove State Park, Fremont, Ohio",
+    "political_party": "Republican",
+    "parents": null,
+    "children": [
+      "Webb C. Hayes and Rutherford P. Hayes"
+    ],
+    "spouses": [
+      "Lucy Ware Webb"
+    ],
+    "vice_president": [
+      "William A. Wheeler (1877-1881)"
+    ],
+    "start_term": "1877-03-05",
+    "end_term": "1881-03-04",
+    "location_died": "Fremont, Ohio",
+    "secretary_of_state": [
+      "William M. Evarts (1877-1881)"
+    ],
+    "secretary_of_the_treasury": [
+      "John Sherman (1877-1881)"
+    ],
+    "secretary_of_war": [
+      "George W. McCrary (1877-1879)",
+      "Alexander Ramsey (1879-1881)"
+    ],
+    "attorney_general": [
+      "Charles Devens (1877-1881)"
+    ],
+    "secretary_of_the_navy": [
+      "Richard W. Thompson (1877-1880)",
+      "Nathan Goff Jr. (1881)"
+    ],
+    "secretary_of_the_interior": [
+      "Carl Schurz (1877-1881)"
+    ],
+    "birth_place": "Delaware, Ohio",
+    "full_name": "Rutherford Birchard Hayes",
+    "religion": "Methodist",
+    "education": "Kenyon College (graduated 1842), Harvard Law School (graduated 1845)",
+    "nickname": [
+      "Dark-Horse President",
+      "Rud"
+    ],
+    "career": "Lawyer"
+  },
+  "James A. Garfield": {
+    "born": "1831-11-19",
+    "died": "1881-09-19",
+    "cause_of_death": "Assassination",
+    "resting_place": "Lake View Cemetery, Cleveland, Ohio",
+    "political_party": "Republican",
+    "parents": [
+      "Abram Garfield",
+      "Eliza Garfield"
+    ],
+    "children": [
+      "Hal",
+      "James",
+      "and Abram"
+    ],
+    "spouses": [
+      "Lucretia Rudolph"
+    ],
+    "vice_president": [
+      "Chester A. Arthur (1881)"
+    ],
+    "start_term": "1881-03-04",
+    "end_term": "1881-09-19",
+    "location_died": "Elberon, New Jersey",
+    "secretary_of_state": [
+      "James G. Blaine (1881)"
+    ],
+    "secretary_of_the_treasury": [
+      "William Windom (1881)"
+    ],
+    "secretary_of_war": [
+      "Robert Todd Lincoln (1881)"
+    ],
+    "attorney_general": [
+      "Wayne MacVeagh (1881)"
+    ],
+    "secretary_of_the_navy": [
+      "William H. Hunt (1881)"
+    ],
+    "secretary_of_the_interior": [
+      "Samuel J. Kirkwood (1881)"
+    ],
+    "birth_place": "Orange Township, Cuyahoga County, Ohio",
+    "full_name": null,
+    "religion": "Disciples of Christ",
+    "education": "Western Reserve Eclectic Institute (now Hiram College), Williams College (graduated 1856)",
+    "nickname": [
+      "None"
+    ],
+    "career": "Teacher, Public Official"
+  },
+  "Chester A. Arthur": {
+    "born": "1829-10-05",
+    "died": "1886-11-18",
+    "cause_of_death": null,
+    "resting_place": "Albany, New York",
+    "political_party": "Republican",
+    "parents": null,
+    "children": [
+      "Chester II"
+    ],
+    "spouses": [
+      "Ellen Herndon"
+    ],
+    "vice_president": [
+      "none (1881-1885)"
+    ],
+    "start_term": "1881-09-19",
+    "end_term": "1885-03-04",
+    "location_died": "New York City, New York",
+    "secretary_of_state": [
+      "James G. Blaine (1881)",
+      "Frederick Theodore Frelinghuysen (1881-1885)"
+    ],
+    "secretary_of_the_treasury": [
+      "William Windom (1881)",
+      "Charles J. Folger (1881-1884)",
+      "Walter Q. Gresham (1884)",
+      "Hugh McCulloch (1884-1885)"
+    ],
+    "secretary_of_war": [
+      "Robert Todd Lincoln (1881-1885)"
+    ],
+    "attorney_general": [
+      "Wayne MacVeagh (1881)",
+      "Benjamin H. Brewster (1881-1885)"
+    ],
+    "secretary_of_the_navy": [
+      "William H. Hunt (1881-1882)",
+      "William E. Chandler (1882-1885)"
+    ],
+    "secretary_of_the_interior": [
+      "Samuel J. Kirkwood (1881-1882)",
+      "Henry M. Teller (1882-1885)"
+    ],
+    "birth_place": "Fairfield, Vermont",
+    "full_name": null,
+    "religion": "Episcopalian",
+    "education": "Union College (graduated 1848)",
+    "nickname": [
+      "The Gentleman Boss"
+    ],
+    "career": "Lawyer"
+  },
+  "Grover Cleveland": {
+    "born": "1837-03-18",
+    "died": "1908-06-24",
+    "cause_of_death": null,
+    "resting_place": "Princeton, New Jersey",
+    "political_party": "Democrat",
+    "parents": [
+      "Richard Falley Cleveland",
+      "Ann Neal"
+    ],
+    "children": [
+      "Ruth",
+      "Esther",
+      "Richard"
+    ],
+    "spouses": [
+      "Frances Folsom"
+    ],
+    "vice_president": [
+      "Adlai Stevenson I (1893-1897)"
+    ],
+    "start_term": "1885-03-04\n1893-03-04",
+    "end_term": "1889-03-04\n1897-03-04",
+    "location_died": "Princeton, New Jersey",
+    "secretary_of_state": [
+      "Walter Q. Gresham (1893-1895)",
+      "Richard Olney (1895-1897)"
+    ],
+    "secretary_of_the_treasury": [
+      "John G. Carlisle (1893-1897)"
+    ],
+    "secretary_of_war": [
+      "Daniel S. Lamont (1893-1897)"
+    ],
+    "attorney_general": [
+      "Richard Olney (1893-1895)",
+      "Judson Harmon (1895-1897)"
+    ],
+    "secretary_of_the_navy": [
+      "Hilary A. Herbert (1893-1897)"
+    ],
+    "secretary_of_the_interior": [
+      "M. Hoke Smith (1893-1896)",
+      "David R. Francis (1896-1897)"
+    ],
+    "secretary_of_agriculture": [
+      "Julius Sterling Morton (1893-1897)"
+    ],
+    "birth_place": "Caldwell, New Jersey",
+    "full_name": "Grover Cleveland",
+    "religion": "Presbyterian",
+    "education": "Some common school; Read law (1855-1859)",
+    "nickname": [
+      "Big Steve",
+      "Uncle Jumbo"
+    ],
+    "career": "Lawyer"
+  },
+  "Benjamin Harrison": {
+    "born": "1833-08-20",
+    "died": "1901-03-13",
+    "cause_of_death": null,
+    "resting_place": "Crown Hill Cemetery, Indianapolis, Indiana",
+    "political_party": "Republican",
+    "parents": null,
+    "children": [
+      "Russell",
+      "Mary",
+      "Unnamed Daughter",
+      "Elizabeth"
+    ],
+    "spouses": [
+      "Caroline Scott",
+      "Mary Scott Lord"
+    ],
+    "vice_president": [
+      "Levi P. Morton (1889-1893)"
+    ],
+    "start_term": "1889-03-04",
+    "end_term": "1893-03-04",
+    "location_died": "Indianapolis, Indiana",
+    "secretary_of_state": [
+      "James G. Blaine (1889-1892)",
+      "John W. Foster (1892-1893)"
+    ],
+    "secretary_of_the_treasury": [
+      "William Windom (1889-1891)",
+      "Charles Foster (1891-1893)"
+    ],
+    "secretary_of_war": [
+      "Redfield Proctor (1889-1891)",
+      "Stephen Benton Elkins (1891-1893)"
+    ],
+    "attorney_general": [
+      "William H. H. Miller (1889-1893)"
+    ],
+    "secretary_of_the_navy": [
+      "Benjamin F. Tracy (1889-1893)"
+    ],
+    "secretary_of_the_interior": [
+      "John Willock Noble (1889-1893)"
+    ],
+    "secretary_of_agriculture": [
+      "Jeremiah McLain Rusk (1889-1893)"
+    ],
+    "birth_place": "North Bend, Ohio",
+    "full_name": null,
+    "religion": "Presbyterian",
+    "education": "Miami University (Ohio), graduated 1852",
+    "nickname": [
+      "Kid Gloves Harrison",
+      "Little Ben"
+    ],
+    "career": "Lawyer"
+  },
+  "William McKinley": {
+    "born": "1843-01-29",
+    "died": "1901-09-14",
+    "cause_of_death": "Assassination",
+    "resting_place": "Canton, Ohio (adjacent to Westlawn Cemetery)",
+    "political_party": "Republican",
+    "parents": [
+      "William McKinley Sr.",
+      "Nancy Allison"
+    ],
+    "children": [
+      "2"
+    ],
+    "spouses": [
+      "Ida Saxton"
+    ],
+    "vice_president": [
+      "Garret Hobart (1897-1899)",
+      "none (1899-1901)",
+      "Theodore Roosevelt (1901)"
+    ],
+    "start_term": "1897-03-04",
+    "end_term": "1901-09-14",
+    "location_died": "Buffalo, New York",
+    "secretary_of_state": [
+      "John Sherman (1897-1898)",
+      "William R. Day (1898)",
+      "John Hay (1898-1901)"
+    ],
+    "secretary_of_the_treasury": [
+      "Lyman J. Gage (1897-1901)"
+    ],
+    "secretary_of_war": [
+      "Russell A. Alger (1897-1899)",
+      "Elihu Root (1899-1901)"
+    ],
+    "attorney_general": [
+      "Joseph McKenna (1897-1898)",
+      "John W. Griggs (1898-1901)",
+      "Philander C. Knox (1901)"
+    ],
+    "secretary_of_the_navy": [
+      "John Davis Long (1897-1901)"
+    ],
+    "secretary_of_the_interior": [
+      "Cornelius Newton Bliss (1897-1899)",
+      "Ethan A. Hitchcock (1899-1901)"
+    ],
+    "secretary_of_agriculture": [
+      "James Wilson (1897-1901)"
+    ],
+    "birth_place": " Niles, Ohio",
+    "full_name": null,
+    "religion": "Methodist",
+    "education": "Allegheny College",
+    "nickname": [
+      "Idol of Ohio"
+    ],
+    "career": "Lawyer"
+  },
+  "Theodore Roosevelt": {
+    "born": "1858-10-27",
+    "died": "1919-01-06",
+    "cause_of_death": null,
+    "resting_place": " Oyster Bay, New York",
+    "political_party": "Republican",
+    "parents": [
+      "Theodore Roosevelt Sr.",
+      "Martha Stewart Bulloch"
+    ],
+    "children": [
+      "Alice",
+      "Theodore III",
+      "Kermit",
+      "Ethel",
+      "Archibald",
+      "Quentin"
+    ],
+    "spouses": [
+      "Alice Lee",
+      "Edith Carow"
+    ],
+    "vice_president": [
+      "none (1901-1905)",
+      "Charles W. Fairbanks (1905-1909)"
+    ],
+    "start_term": "1901-09-14",
+    "end_term": "1909-03-04",
+    "location_died": "Oyster Bay, New York",
+    "secretary_of_state": [
+      "John Hay (1901-1905)",
+      "Elihu Root (1905-1909)",
+      "Robert Bacon (1909)"
+    ],
+    "secretary_of_the_treasury": [
+      "Lyman J. Gage (1901-1902)",
+      "L. M. Shaw (1902-1907)",
+      "George B. Cortelyou (1907-1909)"
+    ],
+    "secretary_of_war": [
+      "Elihu Root (1901-1904)",
+      "William Howard Taft (1904-1908)",
+      "Luke Edward Wright (1908-1909)"
+    ],
+    "attorney_general": [
+      "Philander C. Knox (1901-1904)",
+      "William Henry Moody (1904-1906)",
+      "Charles Joseph Bonaparte (1906-1909)"
+    ],
+    "secretary_of_the_navy": [
+      "John Davis Long (1901-1902)",
+      "William Henry Moody (1902-1904)",
+      "Paul Morton (1904-1905)",
+      "Charles Joseph Bonaparte (1905-1906)",
+      "Victor H. Metcalf (1906-1908)",
+      "Truman Handy Newberry (1908-1909)"
+    ],
+    "secretary_of_the_interior": [
+      "Ethan A. Hitchcock (1901-1907)",
+      "James Rudolph Garfield (1907-1909)"
+    ],
+    "secretary_of_agriculture": [
+      "James Wilson (1901-1909)"
+    ],
+    "birth_place": "New York, New York",
+    "full_name": null,
+    "religion": "Dutch Reformed",
+    "education": "Harvard College (graduated 1880)",
+    "nickname": [
+      "TR",
+      "Trust-Buster",
+      "Teddy"
+    ],
+    "career": "Author, Lawyer, Public Official"
+  },
+  "William Howard Taft": {
+    "born": "1857-09-15",
+    "died": "1930-03-08",
+    "cause_of_death": null,
+    "resting_place": "Arlington National Cemetery, Arlington, Virginia",
+    "political_party": "Republican",
+    "parents": [
+      "Alphonso Taft",
+      "Louise Torrey"
+    ],
+    "children": [
+      "Robert",
+      "Helen",
+      "Charles"
+    ],
+    "spouses": [
+      "Helen Herron"
+    ],
+    "vice_president": [
+      "James S. Sherman (1909-1912)",
+      "none (1912-1913)"
+    ],
+    "start_term": "1909-03-04",
+    "end_term": "1913-03-04",
+    "location_died": "Washington, D.C.",
+    "secretary_of_state": [
+      "Philander C. Knox (1909-1913)"
+    ],
+    "secretary_of_the_treasury": [
+      "Franklin MacVeagh (1909-1913)"
+    ],
+    "secretary_of_war": [
+      "Jacob M. Dickinson (1909-1911)",
+      "Henry L. Stimson (1911-1913)"
+    ],
+    "attorney_general": [
+      "George W. Wickersham (1909-1913)"
+    ],
+    "secretary_of_the_navy": [
+      "George von Lengerke Meyer (1909-1913)"
+    ],
+    "secretary_of_the_interior": [
+      "Richard A. Ballinger (1909-1911)",
+      "Walter L. Fisher (1911-1913)"
+    ],
+    "secretary_of_agriculture": [
+      "James Wilson (1909-1913)"
+    ],
+    "birth_place": "Cincinnati, Ohio",
+    "full_name": "William Howard Taft",
+    "religion": "Unitarian",
+    "education": "Yale College (graduated 1878), Cincinnati Law School (LL.B., 1880)",
+    "nickname": [
+      "None"
+    ],
+    "career": "Lawyer, Public Official"
+  },
+  "Woodrow Wilson": {
+    "born": "1856-12-28",
+    "died": "1924-02-03",
+    "cause_of_death": null,
+    "resting_place": "National Cathedral, Washington, D.C.",
+    "political_party": "Democrat",
+    "parents": [
+      "Joseph Ruggles Wilson",
+      "Jessie Janet Woodrow"
+    ],
+    "children": [
+      "Margaret",
+      "Jessie",
+      "Eleanor"
+    ],
+    "spouses": [
+      "Ellen Axson",
+      "Edith Bolling"
+    ],
+    "vice_president": [
+      "Thomas R. Marshall (1913-1921)"
+    ],
+    "start_term": "1913-03-04",
+    "end_term": "1921-03-04",
+    "location_died": "Washington, D.C.",
+    "secretary_of_state": [
+      "William Jennings Bryan (1913-1915)",
+      "Robert Lansing (1915-1920)",
+      "Bainbridge Colby (1920-1921)"
+    ],
+    "secretary_of_the_treasury": [
+      "William Gibbs McAdoo (1913-1918)",
+      "Carter Glass (1918-1920)",
+      "David F. Houston (1920-1921)"
+    ],
+    "secretary_of_war": [
+      "Lindley Miller Garrison (1913-1916)",
+      "Newton D. Baker (1916-1921)"
+    ],
+    "attorney_general": [
+      "James Clark McReynolds (1913-1914)",
+      "Thomas Watt Gregory (1914-1919)",
+      "A. Mitchell Palmer (1919-1921)"
+    ],
+    "secretary_of_the_navy": [
+      "Josephus Daniels (1913-1921)"
+    ],
+    "secretary_of_the_interior": [
+      "Franklin Knight Lane (1913-1920)",
+      "John Barton Payne (1920-1921)"
+    ],
+    "secretary_of_agriculture": [
+      "David F. Houston (1913-1920)",
+      "Edwin T. Meredith (1920-1921)"
+    ],
+    "secretary_of_commerce": [
+      "William C. Redfield (1913-1919)",
+      "Joshua W. Alexander (1919-1921)"
+    ],
+    "secretary_of_labor": [
+      "William Bauchop Wilson (1913-1921)"
+    ],
+    "birth_place": "Staunton, Virginia",
+    "full_name": null,
+    "religion": "Presbyterian",
+    "education": "College of New Jersey (now Princeton University), graduated 1879",
+    "nickname": [
+      "Schoolmaster in Politics"
+    ],
+    "career": "Professor, College Administration, Public Official"
+  },
+  "Warren G. Harding": {
+    "born": "1865-11-02",
+    "died": "1923-08-02",
+    "cause_of_death": "Myocardial infarction",
+    "resting_place": "Harding Memorial, Marion, Ohio",
+    "political_party": "Republican",
+    "parents": null,
+    "children": [
+      "Elizabeth (with Nan Britton)"
+    ],
+    "spouses": [
+      "Florence Kling"
+    ],
+    "vice_president": [
+      "Calvin Coolidge (1921-1923)"
+    ],
+    "start_term": "1921-03-04",
+    "end_term": "1923-08-02",
+    "location_died": "San Francisco, California, US",
+    "secretary_of_state": [
+      "Charles Evans Hughes (1921-1923)"
+    ],
+    "secretary_of_the_treasury": [
+      "Andrew Mellon (1921-1923)"
+    ],
+    "secretary_of_war": [
+      "John W. Weeks (1921-1923)"
+    ],
+    "attorney_general": [
+      "Harry M. Daugherty (1921-1923)"
+    ],
+    "secretary_of_the_navy": [
+      "Edwin Denby (1921-1923)"
+    ],
+    "secretary_of_the_interior": [
+      "Albert B. Fall (1921-1923)",
+      "Hubert Work (1923)"
+    ],
+    "secretary_of_agriculture": [
+      "Henry Cantwell Wallace (1921-1923)"
+    ],
+    "secretary_of_commerce": [
+      "Herbert Hoover (1921-1923)"
+    ],
+    "secretary_of_labor": [
+      "James J. Davis (1921-1923)"
+    ],
+    "birth_place": " Corsica (now Blooming Grove), Ohio",
+    "full_name": "Warren Gamaliel",
+    "religion": "Baptist",
+    "education": "Ohio Central College (graduated 1882) ",
+    "nickname": [
+      "None"
+    ],
+    "career": "Editor-Publisher"
+  },
+  "Calvin Coolidge": {
+    "born": "1872-07-04",
+    "died": "1933-01-05",
+    "cause_of_death": null,
+    "resting_place": "Plymouth Notch, Vermont",
+    "political_party": "Republican",
+    "parents": [
+      "John Calvin Coolidge Sr.",
+      "Victoria Josephine Moor"
+    ],
+    "children": [
+      "John",
+      "Calvin Jr."
+    ],
+    "spouses": [
+      "Grace Goodhue"
+    ],
+    "vice_president": [
+      "none (1923-1925)",
+      "Charles G. Dawes (1925-1929)"
+    ],
+    "start_term": "1923-08-03",
+    "end_term": "1929-03-04",
+    "location_died": "Northampton, Massachusetts",
+    "secretary_of_state": [
+      "Charles Evans Hughes (1923-1925)",
+      "Frank B. Kellogg (1925-1929)"
+    ],
+    "secretary_of_the_treasury": [
+      "Andrew Mellon (1923-1929)"
+    ],
+    "secretary_of_war": [
+      "John W. Weeks (1923-1925)",
+      "Dwight F. Davis (1925-1929)"
+    ],
+    "attorney_general": [
+      "Harry M. Daugherty (1923-1924)",
+      "Harlan F. Stone (1924-1925)",
+      "John G. Sargent (1925-1929)"
+    ],
+    "secretary_of_the_navy": [
+      "Edwin Denby (1923-1924)",
+      "Curtis D. Wilbur (1924-1929)"
+    ],
+    "secretary_of_the_interior": [
+      "Hubert Work (1923-1928)",
+      "Roy Owen West (1928-1929)"
+    ],
+    "secretary_of_agriculture": [
+      "Henry Cantwell Wallace (1923-1924)",
+      "Howard Mason Gore (1924-1925)",
+      "William Marion Jardine (1925-1929)"
+    ],
+    "secretary_of_commerce": [
+      "Herbert Hoover (1923-1928)",
+      "William F. Whiting (1928-1929)"
+    ],
+    "secretary_of_labor": [
+      "James J. Davis (1923-1929)"
+    ],
+    "birth_place": "Plymouth Notch, Vermont",
+    "full_name": null,
+    "religion": "Congregationalist",
+    "education": "Amherst College (graduated 1895)",
+    "nickname": [
+      "Silent Cal"
+    ],
+    "career": "Lawyer"
+  },
+  "Herbert Hoover": {
+    "born": "1874-08-10",
+    "died": "1964-10-20",
+    "cause_of_death": null,
+    "resting_place": "West Branch, Iowa",
+    "political_party": "Republican",
+    "parents": null,
+    "children": [
+      "Herbert Jr.",
+      "Allan"
+    ],
+    "spouses": [
+      "Lou Henry"
+    ],
+    "vice_president": [
+      "Charles Curtis (1929-1933)"
+    ],
+    "start_term": "1929-03-04",
+    "end_term": "1933-03-04",
+    "location_died": "New York City, New York",
+    "secretary_of_state": [
+      "Frank B. Kellogg (1929)",
+      "Henry L. Stimson (1929-1933)"
+    ],
+    "secretary_of_the_treasury": [
+      "Andrew Mellon (1929-1932)",
+      "Ogden L. Mills (1932-1933)"
+    ],
+    "secretary_of_war": [
+      "James William Good (1929)",
+      "Patrick J. Hurley (1929-1933)"
+    ],
+    "attorney_general": [
+      "William D. Mitchell (1929-1933)"
+    ],
+    "secretary_of_the_navy": [
+      "Charles Francis Adams III (1929-1933)"
+    ],
+    "secretary_of_the_interior": [
+      "Ray Lyman Wilbur (1929-1933)"
+    ],
+    "secretary_of_agriculture": [
+      "Arthur M. Hyde (1929-1933)"
+    ],
+    "secretary_of_commerce": [
+      "Robert P. Lamont (1929-1932)",
+      "Roy D. Chapin (1932-1933)"
+    ],
+    "secretary_of_labor": [
+      "James J. Davis (1929-1930)",
+      "William N. Doak (1930-1933)"
+    ],
+    "birth_place": "West Branch, Iowa",
+    "full_name": null,
+    "religion": "Society of Friends (Quaker)",
+    "education": "Stanford University (graduated 1895)",
+    "nickname": [
+      "None"
+    ],
+    "career": "Engineer"
+  },
+  "Franklin D. Roosevelt": {
+    "born": "1882-01-30",
+    "died": "1945-04-12",
+    "cause_of_death": "Cerebral hemorrhage",
+    "resting_place": "Hyde Park, New York",
+    "political_party": "Democrat",
+    "parents": [
+      "James Roosevelt I",
+      "Sara Delano"
+    ],
+    "children": [
+      "Franklin Jr.",
+      "Anna",
+      "Elliott",
+      "James",
+      "and John"
+    ],
+    "spouses": [
+      "Eleanor Roosevelt"
+    ],
+    "vice_president": null,
+    "start_term": "1933-03-04",
+    "end_term": "1945-04-12",
+    "location_died": "Warm Springs, Georgia",
+    "birth_place": "Hyde Park, New York",
+    "full_name": "Franklin Delano Roosevelt",
+    "religion": "Episcopalian",
+    "education": "Harvard College (graduated 1903), Columbia Law School",
+    "nickname": [
+      "FDR"
+    ],
+    "career": "Public Official, Lawyer"
+  },
+  "Harry S. Truman": {
+    "born": "1884-05-08",
+    "died": "1972-12-26",
+    "cause_of_death": null,
+    "resting_place": "Independence, MO",
+    "political_party": "Democrat",
+    "parents": [
+      "John Anderson Truman",
+      "Martha Ellen Young"
+    ],
+    "children": [
+      "Margaret"
+    ],
+    "spouses": [
+      "Bess Wallace"
+    ],
+    "vice_president": [
+      "none (1945-1949)",
+      "Alben W. Barkley (1949-1953)"
+    ],
+    "start_term": "1945-04-12",
+    "end_term": "1953-01-20",
+    "location_died": "Kansas City, Missouri",
+    "secretary_of_state": [
+      "Edward Stettinius Jr. (1945)",
+      "James F. Byrnes (1945-1947)",
+      "George C. Marshall (1947-1949)",
+      "Dean Acheson (1949-1953)"
+    ],
+    "secretary_of_the_treasury": [
+      "Henry Morgenthau Jr. (1945)",
+      "Fred M. Vinson (1945-1946)",
+      "John Wesley Snyder (1946-1953)"
+    ],
+    "secretary_of_war": [
+      "Henry L. Stimson (1945)",
+      "Robert P. Patterson (1945-1947)",
+      "Kenneth Claiborne Royall (1947)"
+    ],
+    "secretary_of_defense": [
+      "James Forrestal (1947-1949)",
+      "Louis A. Johnson (1949-1950)",
+      "George C. Marshall (1950-1951)",
+      "Robert A. Lovett (1951-1953)"
+    ],
+    "attorney_general": [
+      "Francis Biddle (1945)",
+      "Tom C. Clark (1945-1949)",
+      "J. Howard McGrath (1949-1952)",
+      "James P. McGranery (1952-1953)"
+    ],
+    "secretary_of_the_navy": [
+      "James Forrestal (1945-1947)"
+    ],
+    "secretary_of_the_interior": [
+      "Harold L. Ickes (1945-1946)",
+      "Julius Albert Krug (1946-1949)",
+      "Oscar L. Chapman (1949-1953)"
+    ],
+    "secretary_of_agriculture": [
+      "Claude R. Wickard (1945)",
+      "Clinton Anderson (1945-1948)",
+      "Charles F. Brannan (1948-1953)"
+    ],
+    "secretary_of_commerce": [
+      "Henry A. Wallace (1945-1946)",
+      "W. Averell Harriman (1946-1948)",
+      "Charles W. Sawyer (1948-1953)"
+    ],
+    "secretary_of_labor": [
+      "Frances Perkins (1945)",
+      "Lewis B. Schwellenbach (1945-1948)",
+      "Maurice J. Tobin (1948-1953)"
+    ],
+    "birth_place": " Lamar, MO",
+    "full_name": null,
+    "religion": "Baptist",
+    "nickname": [
+      "Give 'Em Hell Harry"
+    ],
+    "career": "Farmer, Businessman, Public Official"
+  },
+  "Dwight D. Eisenhower": {
+    "born": "1890-10-14",
+    "died": "1969-03-28",
+    "cause_of_death": null,
+    "resting_place": "Abilene, Kansas",
+    "political_party": "Republican",
+    "parents": [
+      "David Jacob Eisenhower",
+      "Ida Stover"
+    ],
+    "children": [
+      "Doud",
+      "John"
+    ],
+    "spouses": [
+      "Mamie Doud"
+    ],
+    "vice_president": [
+      "Richard Nixon (1953-1961)"
+    ],
+    "start_term": "1953-01-20",
+    "end_term": "1961-01-20",
+    "location_died": "Washington, D.C.",
+    "secretary_of_state": [
+      "John Foster Dulles (1953-1959)",
+      "Christian Herter (1959-1961)"
+    ],
+    "secretary_of_the_treasury": [
+      "George M. Humphrey (1953-1957)",
+      "Robert B. Anderson (1957-1961)"
+    ],
+    "secretary_of_defense": [
+      "Charles Erwin Wilson (1953-1957)",
+      "Neil H. McElroy (1957-1959)",
+      "Thomas S. Gates Jr. (1959-1961)"
+    ],
+    "attorney_general": [
+      "Herbert Brownell Jr. (1953-1957)",
+      "William P. Rogers (1957-1961)"
+    ],
+    "secretary_of_the_interior": [
+      "Douglas McKay (1953-1956)",
+      "Fred A. Seaton (1956-1961)"
+    ],
+    "secretary_of_agriculture": [
+      "Ezra Taft Benson (1953-1961)"
+    ],
+    "secretary_of_commerce": [
+      "Sinclair Weeks (1953-1958)",
+      "Frederick H. Mueller (1959-1961)"
+    ],
+    "secretary_of_labor": [
+      "Martin Patrick Durkin (1953)",
+      "James P. Mitchell (1953-1961)"
+    ],
+    "ambassador_to_the_united_nations": [
+      "Henry Cabot Lodge Jr. (1953-1960)",
+      "James Jeremiah Wadsworth (1960-1961)"
+    ],
+    "chief_of_staff": [
+      "Sherman Adams (1953-1958)",
+      "Wilton Persons (1958-1961)"
+    ],
+    "birth_place": " Denison, Texas",
+    "full_name": "Dwight David Eisenhower",
+    "religion": "Presbyterian",
+    "education": "U.S. Military Academy, West Point, New York (graduated 1915)",
+    "nickname": [
+      "Ike"
+    ],
+    "career": "Soldier"
+  },
+  "John F. Kennedy": {
+    "born": "1917-05-29",
+    "died": "1963-11-22",
+    "cause_of_death": "Assassination(gunshot wound to the head)",
+    "resting_place": "Arlington National Cemetery, Arlington, Virginia",
+    "political_party": "Democrat",
+    "parents": [
+      "Joseph P. Kennedy Sr.",
+      "Rose Fitzgerald"
+    ],
+    "children": [
+      "Arabella",
+      "Caroline",
+      "John Jr.",
+      "Patrick"
+    ],
+    "spouses": [
+      "Jacqueline Bouvier"
+    ],
+    "vice_president": [
+      "Lyndon B. Johnson (1961-1963)"
+    ],
+    "start_term": "1961-01-20",
+    "end_term": "1963-11-22",
+    "location_died": "Dallas, Texas",
+    "secretary_of_state": [
+      "Dean Rusk (1961-1963)"
+    ],
+    "secretary_of_the_treasury": [
+      "C. Douglas Dillon (1961-1963)"
+    ],
+    "secretary_of_defense": [
+      "Robert McNamara (1961-1963)"
+    ],
+    "attorney_general": [
+      "Robert F. Kennedy (1961-1963)"
+    ],
+    "secretary_of_the_interior": [
+      "Stewart Udall (1961-1963)"
+    ],
+    "secretary_of_agriculture": [
+      "Orville Freeman (1961-1963)"
+    ],
+    "secretary_of_commerce": [
+      "Luther H. Hodges (1961-1963)"
+    ],
+    "secretary_of_labor": [
+      "Arthur Goldberg (1961-1962)",
+      "W. Willard Wirtz (1962-1963)"
+    ],
+    "ambassador_to_the_united_nations": [
+      "Adlai Stevenson II (1961-1963)"
+    ],
+    "birth_place": "Brookline, Massachusetts",
+    "full_name": "John Fitzgerald Kennedy",
+    "religion": "Roman Catholic",
+    "education": "Harvard (1940)",
+    "nickname": [
+      "JFK",
+      "Jack"
+    ],
+    "career": "Author, U.S. Navy Officer, Journalist, Public Official"
+  },
+  "Lyndon B. Johnson": {
+    "born": "1908-08-27",
+    "died": "1973-01-22",
+    "cause_of_death": null,
+    "resting_place": "Near Johnson City, Texas",
+    "political_party": "Democrat",
+    "parents": [
+      "Samuel Ealy Johnson Jr.",
+      "Rebekah Baines"
+    ],
+    "children": [
+      "Lynda",
+      "Luci"
+    ],
+    "spouses": [
+      "Lady Bird Taylor"
+    ],
+    "vice_president": [
+      "none (1963-1965)",
+      "Hubert Humphrey (1965-1969)"
+    ],
+    "start_term": "1963-11-22",
+    "end_term": "1969-01-20",
+    "location_died": "Stonewall, Texas",
+    "secretary_of_state": [
+      "Dean Rusk (1963-1969)"
+    ],
+    "secretary_of_the_treasury": [
+      "C. Douglas Dillon (1963-1965)",
+      "Henry H. Fowler (1965-1968)",
+      "Joseph W. Barr (1968-1969)"
+    ],
+    "secretary_of_defense": [
+      "Robert McNamara (1963-1968)",
+      "Clark Clifford (1968-1969)"
+    ],
+    "attorney_general": [
+      "Robert F. Kennedy (1963-1964)",
+      "Nicholas Katzenbach (1964-1966)",
+      "Ramsey Clark (1966-1969)"
+    ],
+    "secretary_of_the_interior": [
+      "Stewart Udall (1963-1969)"
+    ],
+    "secretary_of_agriculture": [
+      "Orville Freeman (1963-1969)"
+    ],
+    "secretary_of_commerce": [
+      "Luther H. Hodges (1963-1965)",
+      "John T. Connor (1965-1967)",
+      "Alexander Trowbridge (1967-1968)",
+      "C. R. Smith (1968-1969)"
+    ],
+    "secretary_of_labor": [
+      "W. Willard Wirtz (1963-1969)"
+    ],
+    "secretary_of_transportation": [
+      "Alan S. Boyd (1967-1969)"
+    ],
+    "ambassador_to_the_united_nations": [
+      "Adlai Stevenson II (1963-1965)",
+      "Arthur Goldberg (1965-1968)",
+      "George Ball (1968)",
+      "James Russell Wiggins (1968-1969)"
+    ],
+    "birth_place": "Johnson City, Texas",
+    "full_name": "Lyndon Baines Johnson",
+    "religion": " Disciples of Christ",
+    "education": "Southwest Texas State Teachers College (now Texas State University-San Marcos), graduated 1930; Georgetown Law School, attended 1934",
+    "nickname": [
+      "LBJ"
+    ],
+    "career": "Teacher, Public Official"
+  },
+  "Richard Nixon": {
+    "born": "1913-01-09",
+    "died": "1994-04-22",
+    "cause_of_death": null,
+    "resting_place": "Yorba Linda, California",
+    "political_party": "Republican",
+    "parents": [
+      "Francis A. Nixon",
+      "Hannah Milhous"
+    ],
+    "children": [
+      "Tricia",
+      "Julie"
+    ],
+    "spouses": [
+      "Pat Ryan"
+    ],
+    "vice_president": [
+      "Spiro Agnew (1969-1973)",
+      "none (1973)",
+      "Gerald Ford (1973-1974)"
+    ],
+    "start_term": "1969-01-20",
+    "end_term": "1974-08-09",
+    "location_died": "New York City",
+    "secretary_of_state": [
+      "William P. Rogers (1969-1973)",
+      "Henry Kissinger (1973-1974)"
+    ],
+    "secretary_of_the_treasury": [
+      "David M. Kennedy (1969-1971)",
+      "John Connally (1971-1972)",
+      "George Shultz (1972-1974)",
+      "William E. Simon (1974)"
+    ],
+    "secretary_of_defense": [
+      "Melvin Laird (1969-1973)",
+      "Elliot Richardson (1973)",
+      "James R. Schlesinger (1973-1974)"
+    ],
+    "attorney_general": [
+      "John N. Mitchell (1969-1972)",
+      "Richard Kleindienst (1972-1973)",
+      "Elliot Richardson (1973)",
+      "William B. Saxbe (1974)"
+    ],
+    "secretary_of_the_interior": [
+      "Wally Hickel (1969-1970)",
+      "Rogers Morton (1971-1974)"
+    ],
+    "secretary_of_agriculture": [
+      "Clifford M. Hardin (1969-1971)",
+      "Earl Butz (1971-1974)"
+    ],
+    "secretary_of_commerce": [
+      "Maurice Stans (1969-1972)",
+      "Peter G. Peterson (1972-1973)",
+      "Frederick B. Dent (1973-1974)"
+    ],
+    "secretary_of_labor": [
+      "George Shultz (1969-1970)",
+      "James Day Hodgson (1970-1973)",
+      "Peter J. Brennan (1973-1974)"
+    ],
+    "secretary_of_transportation": [
+      "John Volpe (1969-1973)",
+      "Claude Brinegar (1973-1974)"
+    ],
+    "ambassador_to_the_united_nations": [
+      "Charles Yost (1969-1971)",
+      "George H. W. Bush (1971-1973)",
+      "John A. Scali (1973-1974)"
+    ],
+    "birth_place": "Yorba Linda, California",
+    "full_name": "Richard Milhous Nixon",
+    "religion": "Society of Friends (Quaker)",
+    "education": "Whittier College (1934); Duke University Law School (1937)",
+    "nickname": [
+      "None"
+    ],
+    "career": "Lawyer, Public Official"
+  },
+  "Gerald Ford": {
+    "born": "1913-07-14",
+    "died": "2006-12-26",
+    "cause_of_death": null,
+    "resting_place": "Grand Rapids, Michigan",
+    "political_party": "Republican",
+    "parents": [
+      "Leslie Lynch King Sr.",
+      "Dorothy Ayer Gardner Ford"
+    ],
+    "children": [
+      "Michael",
+      "Jack",
+      "Steven",
+      "Susan"
+    ],
+    "spouses": [
+      "Betty Bloomer"
+    ],
+    "vice_president": [
+      "none (1974)",
+      "Nelson Rockefeller (1974-1977)"
+    ],
+    "start_term": "1974-08-09",
+    "end_term": "1977-01-20",
+    "location_died": "Rancho Mirage, California",
+    "secretary_of_state": [
+      "Henry Kissinger (1974-1977)"
+    ],
+    "secretary_of_the_treasury": [
+      "William E. Simon (1974-1977)"
+    ],
+    "secretary_of_defense": [
+      "James R. Schlesinger (1974-1975)",
+      "Donald Rumsfeld (1975-1977)"
+    ],
+    "attorney_general": [
+      "William B. Saxbe (1974-1975)",
+      "Edward H. Levi (1975-1977)"
+    ],
+    "secretary_of_the_interior": [
+      "Rogers Morton (1974-1975)",
+      "Stanley K. Hathaway (1975)",
+      "Thomas S. Kleppe (1975-1977)"
+    ],
+    "secretary_of_agriculture": [
+      "Earl Butz (1974-1976)",
+      "John Albert Knebel (1976-1977)"
+    ],
+    "secretary_of_commerce": [
+      "Frederick B. Dent (1974-1975)",
+      "Rogers Morton (1975-1976)",
+      "Elliot Richardson (1976-1977)"
+    ],
+    "secretary_of_labor": [
+      "Peter J. Brennan (1974-1975)",
+      "John Thomas Dunlop (1975-1976)",
+      "William Usery Jr. (1976-1977)"
+    ],
+    "secretary_of_transportation": [
+      "Claude Brinegar (1974-1975)",
+      "William Thaddeus Coleman Jr. (1975-1977)"
+    ],
+    "united_states_trade_representative": [
+      "William Denman Eberle (1974)",
+      "Frederick B. Dent (1975-1977)"
+    ],
+    "ambassador_to_the_united_nations": [
+      "John A. Scali (1974-1975)",
+      "Daniel Patrick Moynihan (1975-1976)",
+      "William Scranton (1976-1977)"
+    ],
+    "chief_of_staff": [
+      "Alexander Haig (1974)",
+      "Donald Rumsfeld (1974-1975)",
+      "Dick Cheney (1975-1977)"
+    ],
+    "birth_place": "Omaha, Nebraska",
+    "full_name": "Gerald Rudolph Ford",
+    "religion": "Episcopalian",
+    "education": "University of Michigan (1935); Yale University Law School (1941)",
+    "nickname": [
+      "Jerry"
+    ],
+    "career": "Lawyer, Public Official"
+  },
+  "Jimmy Carter": {
+    "born": "1924-10-01",
+    "died": null,
+    "cause_of_death": null,
+    "resting_place": null,
+    "political_party": "Democratic",
+    "parents": [
+      "James Earl Carter Sr.",
+      "Lillian Gordy"
+    ],
+    "children": [
+      "Jack and Amy"
+    ],
+    "spouses": [
+      "Rosalynn Smith"
+    ],
+    "vice_president": [
+      "Walter Mondale (1977-1981)"
+    ],
+    "start_term": "1977-01-20",
+    "end_term": "1981-01-20",
+    "location_died": null,
+    "secretary_of_state": [
+      "Cyrus Vance (1977-1980)",
+      "Edmund Muskie (1980-1981)"
+    ],
+    "secretary_of_the_treasury": [
+      "W. Michael Blumenthal (1977-1979)",
+      "G. William Miller (1979-1981)"
+    ],
+    "secretary_of_defense": [
+      "Harold Brown (1977-1981)"
+    ],
+    "attorney_general": [
+      "Griffin Bell (1977-1979)",
+      "Benjamin Civiletti (1979-1981)"
+    ],
+    "secretary_of_the_interior": [
+      "Cecil Andrus (1977-1981)"
+    ],
+    "secretary_of_agriculture": [
+      "Robert Bergland (1977-1981)"
+    ],
+    "secretary_of_commerce": [
+      "Juanita M. Kreps (1977-1979)",
+      "Philip Klutznick (1979-1981)"
+    ],
+    "secretary_of_labor": [
+      "Ray Marshall (1977-1981)"
+    ],
+    "secretary_of_transportation": [
+      "Brock Adams (1977-1979)",
+      "Neil Goldschmidt (1979-1981)"
+    ],
+    "secretary_of_energy": [
+      "James R. Schlesinger (1977-1979)",
+      "Charles Duncan Jr. (1979-1981)"
+    ],
+    "secretary_of_education": [
+      "Shirley Hufstedler* (1979-1981)"
+    ],
+    "united_states_trade_representative": [
+      "Robert S. Strauss (1977-1979)",
+      "Reubin Askew (1979-1980)"
+    ],
+    "ambassador_to_the_united_nations": [
+      "Andrew Young (1977-1979)",
+      "Donald McHenry (1979-1981)"
+    ],
+    "birth_place": "Plains, Georgia",
+    "full_name": "James Earl Carter, Jr.",
+    "religion": "Baptist",
+    "education": "Georgia Southwestern College, 1941-1942; Georgia Institute of Technology, 1942-1943; United States Naval Academy, 1943-1946 (class of 1947); Union College, 1952-1953",
+    "career": "Soldier; Farmer, Warehouseman, Public Official, Professor"
+  },
+  "Ronald Reagan": {
+    "born": "1911-02-06",
+    "died": "2004-06-05",
+    "cause_of_death": null,
+    "resting_place": "Simi Valley, California",
+    "political_party": "Republican",
+    "parents": [
+      "Jack Reagan",
+      "Nelle Wilson"
+    ],
+    "children": [
+      "Maureen",
+      "Christine",
+      "Michael",
+      "Patti",
+      "Ron"
+    ],
+    "spouses": [
+      "Jane Wyman",
+      "Nancy Davis"
+    ],
+    "vice_president": [
+      "George H. W. Bush (1981-1989)"
+    ],
+    "start_term": "1981-01-20",
+    "end_term": "1989-01-20",
+    "location_died": "Los Angeles, California",
+    "secretary_of_state": [
+      "Alexander Haig (1981-1982)",
+      "George Shultz (1982-1989)"
+    ],
+    "secretary_of_the_treasury": [
+      "Donald Regan (1981-1985)",
+      "James Baker (1985-1988)",
+      "Nicholas F. Brady (1988-1989)"
+    ],
+    "secretary_of_defense": [
+      "Caspar Weinberger (1981-1987)",
+      "Frank Carlucci (1987-1989)"
+    ],
+    "attorney_general": [
+      "William French Smith (1981-1985)",
+      "Edwin Meese (1985-1988)",
+      "Dick Thornburgh (1988-1989)"
+    ],
+    "secretary_of_the_interior": [
+      "James G. Watt (1981-1983)",
+      "William P. Clark Jr. (1983-1985)",
+      "Donald P. Hodel (1985-1989)"
+    ],
+    "secretary_of_agriculture": [
+      "John Rusling Block (1981-1986)",
+      "Richard Edmund Lyng (1986-1989)"
+    ],
+    "secretary_of_commerce": [
+      "Malcolm Baldrige Jr. (1981-1987)",
+      "William Verity Jr. (1987-1989)"
+    ],
+    "secretary_of_labor": [
+      "Raymond J. Donovan (1981-1985)",
+      "Bill Brock (1985-1987)",
+      "Ann Dore McLaughlin (1987-1989)"
+    ],
+    "secretary_of_transportation": [
+      "Andrew L. Lewis Jr. (1981-1983)",
+      "Elizabeth Dole (1983-1987)",
+      "James H. Burnley IV (1987-1989)"
+    ],
+    "secretary_of_energy": [
+      "James B. Edwards (1981-1982)",
+      "Donald P. Hodel (1982-1985)",
+      "John S. Herrington (1985-1989)"
+    ],
+    "secretary_of_education": [
+      "Terrel Bell (1981-1984)",
+      "William Bennett (1985-1988)",
+      "Lauro Cavazos (1988-1989)"
+    ],
+    "united_states_trade_representative": [
+      "Bill Brock (1981-1985)",
+      "Clayton Yeutter (1985-1989)"
+    ],
+    "ambassador_to_the_united_nations": [
+      "Jeane Kirkpatrick (1981-1985)",
+      "Vernon A. Walters (1985-1989)"
+    ],
+    "birth_place": "Tampico, Illinois",
+    "full_name": "Ronald Wilson Reagan",
+    "religion": "Christian Church",
+    "education": "Eureka College (1932)",
+    "nickname": [
+      "Dutch",
+      "The Gipper",
+      "The Great Communicator"
+    ],
+    "career": "Actor, Public Official"
+  },
+  "George H. W. Bush": {
+    "born": "1924-06-12",
+    "died": "2018-11-30",
+    "cause_of_death": null,
+    "resting_place": "College Station, Texas",
+    "political_party": "Republican",
+    "parents": [
+      "Prescott Bush",
+      "Dorothy Walker"
+    ],
+    "children": [
+      "George",
+      "Robin",
+      "Jeb",
+      "Neil",
+      "Marvin",
+      "Dorothy"
+    ],
+    "spouses": [
+      "Barbara Pierce"
+    ],
+    "vice_president": [
+      "Dan Quayle (1989-1993)"
+    ],
+    "start_term": "1989-01-20",
+    "end_term": "1993-01-20",
+    "location_died": "Houston, Texas",
+    "secretary_of_state": [
+      "James Baker (1989-1992)",
+      "Lawrence Eagleburger (1992-1993)"
+    ],
+    "secretary_of_the_treasury": [
+      "Nicholas F. Brady (1988-1993)"
+    ],
+    "secretary_of_defense": [
+      "Dick Cheney (1989-1993)"
+    ],
+    "attorney_general": [
+      "Dick Thornburgh (1988-1991)",
+      "William Barr (1991-1993)"
+    ],
+    "secretary_of_the_interior": [
+      "Manuel Lujan Jr. (1989-1993)"
+    ],
+    "secretary_of_agriculture": [
+      "Clayton Yeutter (1989-1991)",
+      "Edward Rell Madigan (1991-1993)"
+    ],
+    "secretary_of_commerce": [
+      "Robert Mosbacher (1989-1992)",
+      "Barbara Franklin (1992-1993)"
+    ],
+    "secretary_of_labor": [
+      "Elizabeth Dole (1989-1990)",
+      "Lynn Morley Martin (1991-1993)"
+    ],
+    "secretary_of_transportation": [
+      "Samuel K. Skinner (1989-1991)",
+      "Andrew Card (1992-1993)"
+    ],
+    "secretary_of_energy": [
+      "James D. Watkins (1989-1993)"
+    ],
+    "secretary_of_education": [
+      "Lauro Cavazos (1988-1990)",
+      "Lamar Alexander (1991-1993)"
+    ],
+    "secretary_of_veterans_affairs": [
+      "Ed Derwinski (1989-1992)"
+    ],
+    "united_states_trade_representative": [
+      "Carla Anderson Hills (1989-1993)"
+    ],
+    "birth_place": "Milton, Massachusetts",
+    "full_name": "George Herbert Walker Bush",
+    "religion": "Episcopalian",
+    "education": "Yale University, 1948",
+    "nickname": [
+      "Poppy",
+      "Bush 41"
+    ],
+    "career": "Businessman, public official"
+  },
+  "Bill Clinton": {
+    "born": "1946-08-19",
+    "died": null,
+    "cause_of_death": null,
+    "resting_place": null,
+    "political_party": "Democrat",
+    "parents": [
+      "William Jefferson Blythe Jr.",
+      "Virginia Cassidy"
+    ],
+    "children": [
+      "Chelsea Clinton"
+    ],
+    "spouses": [
+      "Hillary Rodham"
+    ],
+    "vice_president": [
+      "Al Gore (1993-2001)"
+    ],
+    "start_term": "1993-01-20",
+    "end_term": "2001-01-20",
+    "location_died": null,
+    "secretary_of_state": [
+      "Warren Christopher (1993-1997)",
+      "Madeleine Albright (1997-2001)"
+    ],
+    "secretary_of_the_treasury": [
+      "Lloyd Bentsen (1993-1994)",
+      "Robert Rubin (1995-1999)",
+      "Lawrence Summers (1999-2001)"
+    ],
+    "secretary_of_defense": [
+      "Les Aspin (1993-1994)",
+      "William Perry (1994-1997)",
+      "William Cohen (1997-2001)"
+    ],
+    "attorney_general": [
+      "Janet Reno (1993-2001)"
+    ],
+    "secretary_of_the_interior": [
+      "Bruce Babbitt (1993-2001)"
+    ],
+    "secretary_of_agriculture": [
+      "Mike Espy (1993-1994)",
+      "Dan Glickman (1995-2001)"
+    ],
+    "secretary_of_commerce": [
+      "Ron Brown (1993-1996)",
+      "Mickey Kantor (1996-1997)",
+      "William M. Daley (1997-2000)",
+      "Norman Mineta (2000-2001)"
+    ],
+    "secretary_of_labor": [
+      "Robert Reich (1993-1997)",
+      "Alexis Herman (1997-2001)"
+    ],
+    "secretary_of_transportation": [
+      "Federico Pena (1993-1997)",
+      "Rodney Slater (1997-2001)"
+    ],
+    "secretary_of_energy": [
+      "Hazel O'Leary (1993-1997)",
+      "Federico Pena (1997-1998)",
+      "Bill Richardson (1998-2001)"
+    ],
+    "secretary_of_education": [
+      "Richard Riley (1993-2001)"
+    ],
+    "secretary_of_veterans_affairs": [
+      "Jesse Brown (1993-1997)",
+      "Togo West (1998-2000)",
+      "Hershel Gober, act. (2000-2001)"
+    ],
+    "united_states_trade_representative": [
+      "Mickey Kantor (1993-1996)",
+      "Charlene Barshefsky (1996-2001)"
+    ],
+    "ambassador_to_the_united_nations": [
+      "Madeleine Albright (1993-1997)",
+      "Bill Richardson (1997-1998)",
+      "Richard Holbrooke (1999-2001)"
+    ],
+    "chief_of_staff": [
+      "Mack McLarty (1993-1994)",
+      "Leon Panetta (1994-1997)",
+      "Erskine Bowles (1997-1998)",
+      "John Podesta (1998-2001)"
+    ],
+    "birth_place": "Hope, Arkansas",
+    "full_name": "William Jefferson Clinton",
+    "religion": "Baptist",
+    "education": "Georgetown University (1968), attended Oxford University (1968-1970), Yale Law School (1973)",
+    "career": "Lawyer, public official"
+  },
+  "George W. Bush": {
+    "born": "1946-07-06",
+    "died": null,
+    "cause_of_death": null,
+    "resting_place": null,
+    "political_party": "Republican",
+    "parents": [
+      "George H. W. Bush",
+      "Barbara Pierce"
+    ],
+    "children": [
+      "Barbara",
+      "Jenna"
+    ],
+    "spouses": [
+      "Laura Welch"
+    ],
+    "vice_president": [
+      "Dick Cheney (2001-2009)"
+    ],
+    "start_term": "2001-01-20",
+    "end_term": "2009-01-20",
+    "location_died": null,
+    "secretary_of_state": [
+      "Colin Powell (2001-2005)",
+      "Condoleezza Rice (2005-2009)"
+    ],
+    "secretary_of_the_treasury": [
+      "Paul H. O'Neill (2001-2002)",
+      "John W. Snow (2003-2006)",
+      "Henry Paulson (2006-2009)"
+    ],
+    "secretary_of_defense": [
+      "Donald Rumsfeld (2001-2006)",
+      "Robert Gates (2006-2009)"
+    ],
+    "attorney_general": [
+      "John Ashcroft (2001-2005)",
+      "Alberto Gonzales (2005-2007)",
+      "Michael Mukasey (2007-2009)"
+    ],
+    "secretary_of_the_interior": [
+      "Gale Norton (2001-2006)",
+      "Dirk Kempthorne (2006-2009)"
+    ],
+    "secretary_of_agriculture": [
+      "Ann Veneman (2001-2005)",
+      "Mike Johanns (2005-2007)",
+      "Ed Schafer (2008-2009)"
+    ],
+    "secretary_of_commerce": [
+      "Donald Evans (2001-2005)",
+      "Carlos Gutierrez (2005-2009)"
+    ],
+    "secretary_of_labor": [
+      "Elaine Chao (2001-2009)"
+    ],
+    "secretary_of_transportation": [
+      "Norman Mineta (2001-2006)",
+      "Mary Peters (2006-2009)"
+    ],
+    "secretary_of_energy": [
+      "Spencer Abraham (2001-2005)",
+      "Samuel Bodman (2005-2009)"
+    ],
+    "secretary_of_education": [
+      "Rod Paige (2001-2005)",
+      "Margaret Spellings (2005-2009)"
+    ],
+    "secretary_of_veterans_affairs": [
+      "Anthony Principi (2001-2005)",
+      "Jim Nicholson (2005-2007)",
+      "James Peake (2007-2009)"
+    ],
+    "secretary_of_homeland_security": [
+      "Tom Ridge (2003-2005)",
+      "Michael Chertoff (2005-2009)"
+    ],
+    "united_states_trade_representative": [
+      "Robert Zoellick (2001-2005)",
+      "Rob Portman (2005-2006)",
+      "Susan Schwab (2006-2009)"
+    ],
+    "chief_of_staff": [
+      "Andrew Card (2001-2006)",
+      "Joshua Bolten (2006-2009)"
+    ],
+    "birth_place": "New Haven, Connecticut",
+    "full_name": "George Walker Bush",
+    "religion": "Methodist",
+    "education": "Yale (B.S., 1968), Harvard (M.B.A., 1975)",
+    "nickname": [
+      "Dubya"
+    ],
+    "career": "Businessman, public official"
+  },
+  "Barack Obama": {
+    "born": "1961-08-04",
+    "died": null,
+    "cause_of_death": null,
+    "resting_place": null,
+    "political_party": "Democrat",
+    "parents": [
+      "Barack Obama Sr.",
+      "Ann Dunham"
+    ],
+    "children": [
+      "Malia",
+      "Sasha"
+    ],
+    "spouses": [
+      "Michelle Robinson"
+    ],
+    "vice_president": [
+      "Joe Biden (2009-2017)"
+    ],
+    "start_term": "2009-01-20",
+    "end_term": "2017-01-20",
+    "location_died": null,
+    "secretary_of_state": [
+      "Hillary Clinton (2009-2013)",
+      "John Kerry (2013-2017)"
+    ],
+    "secretary_of_the_treasury": [
+      "Timothy Geithner (2009-2013)",
+      "Jack Lew (2013-2017)"
+    ],
+    "secretary_of_defense": [
+      "Robert Gates* (2006-2011)",
+      "Leon Panetta (2011-2013)",
+      "Chuck Hagel (2013-2015)",
+      "Ash Carter (2015-2017)"
+    ],
+    "attorney_general": [
+      "Eric Holder (2009-2015)",
+      "Loretta Lynch (2015-2017)"
+    ],
+    "secretary_of_the_interior": [
+      "Ken Salazar (2009-2013)",
+      "Sally Jewell (2013-2017)"
+    ],
+    "secretary_of_agriculture": [
+      "Tom Vilsack (2009-2017)"
+    ],
+    "secretary_of_commerce": [
+      "Gary Locke (2009-2011)",
+      "John Bryson (2011-2012)",
+      "Penny Pritzker (2013-2017)"
+    ],
+    "secretary_of_labor": [
+      "Hilda Solis (2009-2013)",
+      "Tom Perez (2013-2017)"
+    ],
+    "secretary_of_transportation": [
+      "Ray LaHood (2009-2013)",
+      "Anthony Foxx (2013-2017)"
+    ],
+    "secretary_of_energy": [
+      "Steven Chu (2009-2013)",
+      "Ernest Moniz (2013-2017)"
+    ],
+    "secretary_of_education": [
+      "Arne Duncan (2009-2016)",
+      "John King Jr. (2016-2017)"
+    ],
+    "secretary_of_veterans_affairs": [
+      "Eric Shinseki (2009-2014)",
+      "Bob McDonald (2014-2017)"
+    ],
+    "secretary_of_homeland_security": [
+      "Janet Napolitano (2009-2013)",
+      "Jeh Johnson (2013-2017)"
+    ],
+    "united_states_trade_representative": [
+      "Ron Kirk (2009-2013)",
+      "Michael Froman (2013-2017)"
+    ],
+    "ambassador_to_the_united_nations": [
+      "Susan Rice (2009-2013)",
+      "Samantha Power (2013-2017)"
+    ],
+    "chief_of_staff": [
+      "Rahm Emanuel (2009-2010)",
+      "William M. Daley (2011-2012)",
+      "Jack Lew (2012-2013)",
+      "Denis McDonough (2013-2017)"
+    ],
+    "birth_place": "Honolulu, Hawaii",
+    "full_name": "Barack Hussein Obama",
+    "religion": "Christian",
+    "education": "Columbia University (B.A., 1983), Harvard (J.D., 1991)",
+    "nickname": [
+      "Barry"
+    ],
+    "career": "Community Organizer, Public Official"
+  },
+  "Donald Trump": {
+    "born": "1946-06-14",
+    "died": null,
+    "cause_of_death": null,
+    "resting_place": null,
+    "political_party": "Republican",
+    "parents": [
+      "Fred Trump",
+      "Mary Anne MacLeod"
+    ],
+    "children": [
+      "Donald Jr.",
+      "Ivanka",
+      "Eric",
+      "Tiffany",
+      "Barron"
+    ],
+    "spouses": [
+      "Ivana Zeln\u00ed\u010dkov\u00e1",
+      "Marla Maples",
+      "Melania Knauss"
+    ],
+    "vice_president": [
+      "Mike Pence (2017-2021)"
+    ],
+    "start_term": "2017-01-20",
+    "end_term": "2021-01-20",
+    "location_died": null,
+    "secretary_of_state": [
+      "Rex Tillerson (2017-2018)",
+      "Mike Pompeo (2018-2021)"
+    ],
+    "secretary_of_the_treasury": [
+      "Steven Mnuchin (2017-2021)"
+    ],
+    "secretary_of_defense": [
+      "Jim Mattis (2017-2019)",
+      "Mark Esper (2019-2020)"
+    ],
+    "attorney_general": [
+      "Jeff Sessions (2017-2018)",
+      "William Barr (2019-2020)"
+    ],
+    "secretary_of_the_interior": [
+      "Ryan Zinke (2017-2019)",
+      "David Bernhardt (2019-2021)"
+    ],
+    "secretary_of_agriculture": [
+      "Sonny Perdue (2017-2021)"
+    ],
+    "secretary_of_commerce": [
+      "Wilbur Ross (2017-2021)"
+    ],
+    "secretary_of_labor": [
+      "Alexander Acosta (2017-2019)",
+      "Eugene Scalia (2019-2021)"
+    ],
+    "secretary_of_transportation": [
+      "Elaine Chao (2017-2021)"
+    ],
+    "secretary_of_energy": [
+      "Rick Perry (2017-2019)",
+      "Dan Brouillette (2019-2021)"
+    ],
+    "secretary_of_education": [
+      "Betsy DeVos (2017-2021)"
+    ],
+    "secretary_of_veterans_affairs": [
+      "David Shulkin (2017-2018)",
+      "Robert Wilkie (2018-2021)"
+    ],
+    "secretary_of_homeland_security": [
+      "John F. Kelly (2017)",
+      "Kirstjen Nielsen (2017-2019)",
+      "Chad Wolf (acting) (2019-2021)"
+    ],
+    "director_of_national_intelligence": [
+      "Dan Coats (2017-2019)",
+      "John Ratcliffe (2020-2021)"
+    ],
+    "united_states_trade_representative": [
+      "Robert Lighthizer (2017-2021)"
+    ],
+    "ambassador_to_the_united_nations": [
+      "Nikki Haley (2017-2018)",
+      "Kelly Craft (2019-2021)"
+    ],
+    "chief_of_staff": [
+      "Reince Priebus (2017)",
+      "John F. Kelly (2017-2019)",
+      "Mark Meadows (2020-2021)"
+    ],
+    "birth_place": "New York, New York",
+    "full_name": "Donald John Trump",
+    "religion": "Presbyterian",
+    "education": "Wharton School, University of Pennsylvania (1968)",
+    "nickname": [
+      "The Donald"
+    ],
+    "career": "Businessman, Real Estate Developer, Television Personality"
+  },
+  "Joe Biden": {
+    "born": "1942-11-20",
+    "died": null,
+    "cause_of_death": null,
+    "resting_place": null,
+    "political_party": "Democrat",
+    "parents": [
+      "Joseph Robinette Biden Sr.",
+      "Catherine Eugenia Finnegan"
+    ],
+    "children": [
+      "Beau",
+      "Hunter",
+      "Naomi",
+      "Ashley"
+    ],
+    "spouses": [
+      "Neilia Hunter",
+      "Jill Jacobs"
+    ],
+    "vice_president": [
+      "Kamala Harris (2021-present)"
+    ],
+    "start_term": "2021-01-20",
+    "end_term": "2025-01-20",
+    "location_died": null,
+    "secretary_of_state": [
+      "Antony Blinken (2021-present)"
+    ],
+    "secretary_of_the_treasury": [
+      "Janet Yellen (2021-present)"
+    ],
+    "secretary_of_defense": [
+      "Lloyd Austin (2021-present)"
+    ],
+    "attorney_general": [
+      "Merrick Garland (2021-present)"
+    ],
+    "secretary_of_the_interior": [
+      "Deb Haaland (2021-present)"
+    ],
+    "secretary_of_agriculture": [
+      "Tom Vilsack (2021-present)"
+    ],
+    "secretary_of_commerce": [
+      "Gina Raimondo (2021-present)"
+    ],
+    "secretary_of_labor": [
+      "Marty Walsh (2021-present)"
+    ],
+    "secretary_of_transportation": [
+      "Pete Buttigieg (2021-present)"
+    ],
+    "secretary_of_energy": [
+      "Jennifer Granholm (2021-present)"
+    ],
+    "secretary_of_education": [
+      "Miguel Cardona (2021-present)"
+    ],
+    "secretary_of_veterans_affairs": [
+      "Denis McDonough (2021-present)"
+    ],
+    "secretary_of_homeland_security": [
+      "Alejandro Mayorkas (2021-present)"
+    ],
+    "director_of_national_intelligence": [
+      "Avril Haines (2021-present)"
+    ],
+    "united_states_trade_representative": [
+      "Katherine Tai (2021-present)"
+    ],
+    "ambassador_to_the_united_nations": [
+      "Linda Thomas-Greenfield (2021-present)"
+    ],
+    "chief_of_staff": [
+      "Ron Klain (2021-present)"
+    ],
+    "birth_place": "Scranton, Pennsylvania",
+    "full_name": "Joseph Robinette Biden Jr.",
+    "religion": "Roman Catholic",
+    "education": "University of Delaware (B.A., 1965), Syracuse University Law School (J.D., 1968)",
+    "nickname": [
+      "Amtrak Joe"
+    ],
+    "career": "Lawyer, US Senator from Delaware (1973-2009), Vice President (2009-2017)"
+  }
+}

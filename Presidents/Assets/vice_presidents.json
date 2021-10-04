@@ -1,0 +1,312 @@
+{
+    "John Adams": {
+        "term_began": "April 21, 1789",
+        "term_ended": "March 4, 1797",
+        "state_born": "Massachusetts",
+        "president": "George Washington"
+    },
+    "Thomas Jefferson": {
+        "term_began": "March 4, 1797",
+        "term_ended": "March 4, 1801",
+        "state_born": "Virginia",
+        "president": "John Adams"
+    },
+    "Aaron Burr": {
+        "term_began": "March 4, 1801",
+        "term_ended": "March 4, 1805",
+        "state_born": "New Jersey",
+        "president": "Thomas Jefferson"
+    },
+    "George Clinton": [
+        {
+            "term_began": "March 4, 1805",
+            "term_ended": "March 4, 1809",
+            "state_born": "New York",
+            "president": "Thomas Jefferson"
+        },
+        {
+            "term_began": "March 4, 1809",
+            "term_ended": "April 20, 1812",
+            "state_born": "New York",
+            "president": "James Madison"
+        }
+    ],
+    "Elbridge Gerry": {
+        "term_began": "March 4, 1813",
+        "term_ended": "November 23, 1814",
+        "state_born": "Massachusetts",
+        "president": "James Madison"
+    },
+    "Daniel Tompkins": {
+        "term_began": "March 4, 1817",
+        "term_ended": "March 4, 1825",
+        "state_born": "New York",
+        "president": "James Monroe"
+    },
+    "John C. Calhoun": [
+        {
+            "term_began": "March 4, 1825",
+            "term_ended": "March 4, 1829",
+            "state_born": "South Carolina",
+            "president": "John Quincy Adams"
+        },
+        {
+            "term_began": "March 4, 1829",
+            "term_ended": "December 28, 1832",
+            "state_born": "South Carolina",
+            "president": "Andrew Jackson"
+        }
+    ],
+    "Martin Van Buren": {
+        "term_began": "March 4, 1833",
+        "term_ended": "March 4, 1837",
+        "state_born": "New York",
+        "president": "Andrew Jackson"
+    },
+    "Richard M. Johnson": {
+        "term_began": "March 4, 1837",
+        "term_ended": "March 4, 1841",
+        "state_born": "Kentucky",
+        "president": "Martin Van Buren"
+    },
+    "John Tyler": {
+        "term_began": "March 4, 1841",
+        "term_ended": "April 4, 1841",
+        "state_born": "Virginia",
+        "president": "William Henry Harrison"
+    },
+    "George M. Dallas": {
+        "term_began": "March 4, 1845",
+        "term_ended": "March 4, 1849",
+        "state_born": "Pennsylvania",
+        "president": "James K. Polk"
+    },
+    "Millard Fillmore": {
+        "term_began": "March 4, 1849",
+        "term_ended": "July 9, 1850",
+        "state_born": "New York",
+        "president": "Zachary Taylor"
+    },
+    "William R. King": {
+        "term_began": "March 4, 1853",
+        "term_ended": "April 18, 1853",
+        "state_born": "North Carolina",
+        "president": "Franklin Pierce"
+    },
+    "John C. Breckinridge": {
+        "term_began": "March 4, 1857",
+        "term_ended": "March 4, 1861",
+        "state_born": "Kentucky",
+        "president": "James Buchanan"
+    },
+    "Hannibal Hamlin": {
+        "term_began": "March 4, 1861",
+        "term_ended": "March 4, 1865",
+        "state_born": "Massachusetts",
+        "president": "Abraham Lincoln"
+    },
+    "Andrew Johnson": {
+        "term_began": "March 4, 1865",
+        "term_ended": "April 15, 1865",
+        "state_born": "North Carolina",
+        "president": "Abraham Lincoln"
+    },
+    "Schuyler Colfax": {
+        "term_began": "March 4, 1869",
+        "term_ended": "March 4, 1873",
+        "state_born": "New York",
+        "president": "Ulysses S. Grant"
+    },
+    "Henry Wilson": {
+        "term_began": "March 4, 1873",
+        "term_ended": "November 22, 1875",
+        "state_born": "New Hampshire",
+        "president": "Ulysses S. Grant"
+    },
+    "William Wheeler": {
+        "term_began": "March 4, 1877",
+        "term_ended": "March 4, 1881",
+        "state_born": "New York",
+        "president": "Rutherford B. Hayes"
+    },
+    "Chester Arthur": {
+        "term_began": "March 4, 1881",
+        "term_ended": "September 19, 1881",
+        "state_born": "Vermont",
+        "president": "James Garfield"
+    },
+    "Thomas A. Hendricks": {
+        "term_began": "March 4, 1885",
+        "term_ended": "November 25, 1885",
+        "state_born": "Ohio",
+        "president": "Grover Cleveland"
+    },
+    "Levi P. Morton": {
+        "term_began": "March 4, 1889",
+        "term_ended": "March 4, 1893",
+        "state_born": "Vermont",
+        "president": "Benjamin Harrison"
+    },
+    "Adlai E. Stevenson": {
+        "term_began": "March 4, 1893",
+        "term_ended": "March 4, 1897",
+        "state_born": "Kentucky",
+        "president": "Grover Cleveland"
+    },
+    "Garret A. Hobart": {
+        "term_began": "March 4, 1897",
+        "term_ended": "November 21, 1899",
+        "state_born": "New Jersey",
+        "president": "William McKinley"
+    },
+    "Theodore Roosevelt": {
+        "term_began": "March 4, 1901",
+        "term_ended": "September 14, 1901",
+        "state_born": "New York",
+        "president": "William McKinley"
+    },
+    "Charles Fairbanks": {
+        "term_began": "March 4, 1905",
+        "term_ended": "March 4, 1909",
+        "state_born": "Ohio",
+        "president": "Theodore Roosevelt"
+    },
+    "James Sherman": {
+        "term_began": "March 4, 1909",
+        "term_ended": "October 30, 1912",
+        "state_born": "New York",
+        "president": "William Howard Taft"
+    },
+    "Thomas R. Marshall": {
+        "term_began": "March 4, 1913",
+        "term_ended": "March 4, 1921",
+        "state_born": "Indiana",
+        "president": "Woodrow Wilson"
+    },
+    "Calvin Coolidge": {
+        "term_began": "March 4, 1921",
+        "term_ended": "August 2, 1923",
+        "state_born": "Vermont",
+        "president": "Warren G. Harding"
+    },
+    "Charles Dawes": {
+        "term_began": "March 4, 1925",
+        "term_ended": "March 4, 1929",
+        "state_born": "Ohio",
+        "president": "Calvin Coolidge"
+    },
+    "Charles Curtis": {
+        "term_began": "March 4, 1929",
+        "term_ended": "March 4, 1933",
+        "state_born": "Kansas",
+        "president": "Herbert Hoover"
+    },
+    "John Nance Garner": {
+        "term_began": "March 4, 1933",
+        "term_ended": "January 20, 1941",
+        "state_born": "Texas",
+        "president": "Franklin D. Roosevelt"
+    },
+    "Henry A. Wallace": {
+        "term_began": "January 20, 1941",
+        "term_ended": "January 20, 1945",
+        "state_born": "Iowa",
+        "president": "Franklin D. Roosevelt"
+    },
+    "Harry S. Truman": {
+        "term_began": "January 20, 1945",
+        "term_ended": "April 12, 1945",
+        "state_born": "Missouri",
+        "president": "Franklin D. Roosevelt"
+    },
+    "Alben Barkley": {
+        "term_began": "January 20, 1949",
+        "term_ended": "January 20, 1953",
+        "state_born": "Kentucky",
+        "president": "Harry S. Truman"
+    },
+    "Richard Nixon": {
+        "term_began": "January 20, 1953",
+        "term_ended": "January 20, 1961",
+        "state_born": "California",
+        "president": "Dwight Eisenhower"
+    },
+    "Lyndon B. Johnson": {
+        "term_began": "January 20, 1961",
+        "term_ended": "November 22, 1963",
+        "state_born": "Texas",
+        "president": "John F. Kennedy"
+    },
+    "Hubert Humphrey": {
+        "term_began": "January 20, 1965",
+        "term_ended": "January 20, 1969",
+        "state_born": "South Dakota",
+        "president": "Lyndon B. Johnson"
+    },
+    "Spiro Agnew": {
+        "term_began": "January 20, 1969",
+        "term_ended": "October 10, 1973",
+        "state_born": "Maryland",
+        "president": "Richard Nixon"
+    },
+    "Gerald Ford": {
+        "term_began": "December 6, 1973",
+        "term_ended": "August 9, 1974",
+        "state_born": "Nebraska",
+        "president": "Richard Nixon"
+    },
+    "Nelson Rockefeller": {
+        "term_began": "December 19, 1974",
+        "term_ended": "January 20, 1977",
+        "state_born": "Maine",
+        "president": "Gerald Ford"
+    },
+    "Walter Mondale": {
+        "term_began": "January 20, 1977",
+        "term_ended": "January 20, 1981",
+        "state_born": "Minnesota",
+        "president": "Jimmy Carter"
+    },
+    "George H. W. Bush": {
+        "term_began": "January 20, 1981",
+        "term_ended": "January 20, 1989",
+        "state_born": "Massachusetts",
+        "president": "Ronald Reagan"
+    },
+    "Dan Quayle": {
+        "term_began": "January 20, 1989",
+        "term_ended": "January 20, 1993",
+        "state_born": "Indiana",
+        "president": "George Bush"
+    },
+    "Al Gore": {
+        "term_began": "January 20, 1993",
+        "term_ended": "January 20, 2001",
+        "state_born": "Maryland",
+        "president": "Bill Clinton"
+    },
+    "Dick Cheney": {
+        "term_began": "January 20, 2001",
+        "term_ended": "January 20, 2009",
+        "state_born": "Nebraska",
+        "president": "George W. Bush"
+    },
+    "Joe Biden": {
+        "term_began": "January 20, 2009",
+        "term_ended": "January 20, 2017",
+        "state_born": "Pennsylvania",
+        "president": "Barack Obama"
+    },
+    "Mike Pence": {
+        "term_began": "January 20, 2017",
+        "term_ended": "January 20, 2021",
+        "state_born": "Indiana",
+        "president": "Donald Trump"
+    },
+    "Kamala Harris": {
+        "term_began": "January 20, 2021",
+        "term_ended": "Currently in Office",
+        "state_born": "California",
+        "president": "Joe Biden"
+    }
+}
