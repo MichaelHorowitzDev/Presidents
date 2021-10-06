@@ -7,12 +7,6 @@
 
 import Foundation
 
-//struct PresidentsData {
-//
-//}
-//lazy var presidents: [President] = {
-//  presidentsDataArray()
-//}()
 let presidentArray = presidentsDataArray()
 
 func presidentsDataArray() -> [President] {
