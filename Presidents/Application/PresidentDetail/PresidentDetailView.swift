@@ -11,9 +11,30 @@ func loadPresidentFromName(name: String, presidentArray: [President]) -> Preside
   return presidentArray.first(where: { $0.name == name })
 }
 
+class SavedPresidents: ObservableObject {
+  @Published var presidents: Set<String> {
+    didSet {
+      print(presidents)
+      UserDefaults.standard.set(Array(presidents), forKey: "savedPresidents")
+    }
+  }
+  
+  init() {
+    if let presidents = UserDefaults.standard.array(forKey: "savedPresidents") as? [String] {
+      self.presidents = Set(presidents)
+    } else {
+      presidents = Set()
+    }
+  }
+}
+
 struct PresidentDetailView: View {
   let presidentName: String
   let president: President?
+  @ObservedObject var savedPresidents: SavedPresidents = SavedPresidents()
+  var isSaved: Bool {
+    savedPresidents.presidents.contains(presidentName)
+  }
   init(presidentName: String) {
     self.presidentName = presidentName
     self.president = loadPresidentFromName(name: presidentName, presidentArray: presidentArray)
@@ -37,6 +58,19 @@ struct PresidentDetailView: View {
         }
         .font(.title2)
         .navigationTitle(president.name)
+        .toolbar {
+          ToolbarItem(placement: .navigationBarTrailing) {
+            Button {
+              if isSaved {
+                savedPresidents.presidents.remove(presidentName)
+              } else {
+                savedPresidents.presidents.insert(presidentName)
+              }
+            } label: {
+              Image(systemName: isSaved ? "star.fill" : "star")
+            }
+          }
+        }
       } else {
         Text("Error Loading President")
       }
