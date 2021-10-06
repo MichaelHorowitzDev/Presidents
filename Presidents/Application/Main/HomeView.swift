@@ -13,7 +13,7 @@ struct HomeView: View {
         GeometryReader { geo in
           List(0..<presidentNames.count, id: \.self) { name in
             NavigationLink {
-              Text(presidentNames[name])
+              PresidentDetailView(presidentName: presidentNames[name])
             } label: {
               HStack {
                 Image("\(name+1)_Preview")
@@ -30,6 +30,7 @@ struct HomeView: View {
         }
         .navigationTitle("Presidents")
       }
+      .navigationViewStyle(.stack)
     }
 }
 

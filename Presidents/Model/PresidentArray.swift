@@ -8,11 +8,13 @@
 import Foundation
 
 //struct PresidentsData {
-//  
+//
 //}
 //lazy var presidents: [President] = {
 //  presidentsDataArray()
 //}()
+let presidentArray = presidentsDataArray()
+
 func presidentsDataArray() -> [President] {
     let presidentDataURL = Bundle.main.url(forResource: "presidents_data", withExtension: "json")!
     let presidentData = try! Data(contentsOf: presidentDataURL)

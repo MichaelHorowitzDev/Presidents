@@ -19,6 +19,11 @@
 		8B3D9744270AB47700CA396F /* Date Converter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3D9743270AB47700CA396F /* Date Converter.swift */; };
 		8B3D9746270AB5CE00CA396F /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3D9745270AB5CE00CA396F /* HomeView.swift */; };
 		8B3D9749270ABE4A00CA396F /* PresidentDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3D9748270ABE4A00CA396F /* PresidentDetailView.swift */; };
+		8B3D974B270ABFFD00CA396F /* PresidentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3D974A270ABFFD00CA396F /* PresidentView.swift */; };
+		8B3D974D270AC01B00CA396F /* PresidentInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3D974C270AC01B00CA396F /* PresidentInfo.swift */; };
+		8B3D9751270AC0A000CA396F /* PresidentSignature.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3D9750270AC0A000CA396F /* PresidentSignature.swift */; };
+		8B8C8ACB270CFBB0001E3003 /* PresidentialFirsts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8C8ACA270CFBB0001E3003 /* PresidentialFirsts.swift */; };
+		8B8C8ACE270CFDA3001E3003 /* Cabinet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8C8ACD270CFDA3001E3003 /* Cabinet.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +40,11 @@
 		8B3D9743270AB47700CA396F /* Date Converter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Date Converter.swift"; sourceTree = "<group>"; };
 		8B3D9745270AB5CE00CA396F /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		8B3D9748270ABE4A00CA396F /* PresidentDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresidentDetailView.swift; sourceTree = "<group>"; };
+		8B3D974A270ABFFD00CA396F /* PresidentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresidentView.swift; sourceTree = "<group>"; };
+		8B3D974C270AC01B00CA396F /* PresidentInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresidentInfo.swift; sourceTree = "<group>"; };
+		8B3D9750270AC0A000CA396F /* PresidentSignature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresidentSignature.swift; sourceTree = "<group>"; };
+		8B8C8ACA270CFBB0001E3003 /* PresidentialFirsts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresidentialFirsts.swift; sourceTree = "<group>"; };
+		8B8C8ACD270CFDA3001E3003 /* Cabinet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cabinet.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,9 +160,30 @@
 		8B3D9747270ABE2600CA396F /* PresidentDetail */ = {
 			isa = PBXGroup;
 			children = (
+				8B8C8ACC270CFD99001E3003 /* Cabinet */,
+				8B8C8AC9270CFB91001E3003 /* PresidentialFirsts */,
 				8B3D9748270ABE4A00CA396F /* PresidentDetailView.swift */,
+				8B3D974A270ABFFD00CA396F /* PresidentView.swift */,
+				8B3D974C270AC01B00CA396F /* PresidentInfo.swift */,
+				8B3D9750270AC0A000CA396F /* PresidentSignature.swift */,
 			);
 			path = PresidentDetail;
+			sourceTree = "<group>";
+		};
+		8B8C8AC9270CFB91001E3003 /* PresidentialFirsts */ = {
+			isa = PBXGroup;
+			children = (
+				8B8C8ACA270CFBB0001E3003 /* PresidentialFirsts.swift */,
+			);
+			path = PresidentialFirsts;
+			sourceTree = "<group>";
+		};
+		8B8C8ACC270CFD99001E3003 /* Cabinet */ = {
+			isa = PBXGroup;
+			children = (
+				8B8C8ACD270CFDA3001E3003 /* Cabinet.swift */,
+			);
+			path = Cabinet;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -228,13 +259,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B8C8ACE270CFDA3001E3003 /* Cabinet.swift in Sources */,
 				8B3D973C270AB44E00CA396F /* PresidentArray.swift in Sources */,
+				8B8C8ACB270CFBB0001E3003 /* PresidentialFirsts.swift in Sources */,
 				8B3D9738270AB43700CA396F /* President.swift in Sources */,
 				8B3D9740270AB46200CA396F /* President Names.swift in Sources */,
 				8B3D9746270AB5CE00CA396F /* HomeView.swift in Sources */,
+				8B3D974D270AC01B00CA396F /* PresidentInfo.swift in Sources */,
 				8B3D9721270AB1A700CA396F /* PresidentsApp.swift in Sources */,
+				8B3D9751270AC0A000CA396F /* PresidentSignature.swift in Sources */,
 				8B3D9749270ABE4A00CA396F /* PresidentDetailView.swift in Sources */,
 				8B3D9744270AB47700CA396F /* Date Converter.swift in Sources */,
+				8B3D974B270ABFFD00CA396F /* PresidentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
