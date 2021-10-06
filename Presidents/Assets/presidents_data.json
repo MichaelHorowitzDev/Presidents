@@ -1690,6 +1690,47 @@
     "start_term": "1933-03-04",
     "end_term": "1945-04-12",
     "location_died": "Warm Springs, Georgia",
+    "secretary_of_state":[
+      "Cordell Hull (1933)",
+      "E. R. Stettinius Jr. (1944)",
+    ],
+    "secretary_of_the_treasury":[
+      "William H. Woodin (1933)",
+      "Henry Morgenthau Jr. (1934)"
+    ],
+    "secretary_of_war":[
+      "George H. Dern (1933)",
+      "Harry H. Woodring (1936)",
+      "Henry L. Stimson (1940)"
+    ],
+    "attorney_general":[
+      "Homer Stille Cummings (1933-1939)",
+      "Frank Murphy (1939-1940)",
+      "Robert H. Jackson (1940-1941)",
+      "Francis Biddle (1941-1945)"
+    ],
+    "secretary_of_the_navy":[
+      "Claude A. Swanson (1933-1939)",
+      "Charles Edison (1939-1940)",
+      "Frank Knox (1940-1944)",
+      "James Forrestal (1944-1945)"
+    ],
+    "secretary_of_the_interior":[
+      "Harold L. Ickes (1933-1945)"
+    ],
+    "secretary_of_agriculture":[
+      "Henry A. Wallace (1933-1940)",
+      "Claude R. Wickard (1940-1945)"
+    ],
+    "secretary_of_commerce":[
+      "Daniel C. Roper (1933-1938)",
+      "Harry Hopkins (1938-1940)",
+      "Jesse H. Jones (1940-1945)",
+      "Henry A. Wallace (1945)"
+    ],
+    "secretary_of_labor":[
+      "Frances Perkins (1933-1945)"
+    ],
     "birth_place": "Hyde Park, New York",
     "full_name": "Franklin Delano Roosevelt",
     "religion": "Episcopalian",
