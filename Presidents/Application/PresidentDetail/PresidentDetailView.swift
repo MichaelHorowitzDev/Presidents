@@ -12,7 +12,7 @@ func loadPresidentFromName(name: String, presidentArray: [President]) -> Preside
 }
 
 class SavedPresidents: ObservableObject {
-  @Published var presidents: Set<String> {
+  @Published var presidents: Array<String> {
     didSet {
       print(presidents)
       UserDefaults.standard.set(Array(presidents), forKey: "savedPresidents")
@@ -21,9 +21,9 @@ class SavedPresidents: ObservableObject {
   
   init() {
     if let presidents = UserDefaults.standard.array(forKey: "savedPresidents") as? [String] {
-      self.presidents = Set(presidents)
+      self.presidents = presidents
     } else {
-      presidents = Set()
+      presidents = [String]()
     }
   }
 }
@@ -31,7 +31,7 @@ class SavedPresidents: ObservableObject {
 struct PresidentDetailView: View {
   let presidentName: String
   let president: President?
-  @ObservedObject var savedPresidents: SavedPresidents = SavedPresidents()
+  @EnvironmentObject var savedPresidents: SavedPresidents
   var isSaved: Bool {
     savedPresidents.presidents.contains(presidentName)
   }
@@ -54,6 +54,13 @@ struct PresidentDetailView: View {
           } label: {
             Text("Cabinet")
           }
+          Link(destination: president.wikipediaPage) {
+            HStack {
+              Spacer()
+              Text("Wikipedia Page")
+              Spacer()
+            }
+          }
           PresidentInfo(presidentDetail: president)
         }
         .font(.title2)
@@ -62,9 +69,9 @@ struct PresidentDetailView: View {
           ToolbarItem(placement: .navigationBarTrailing) {
             Button {
               if isSaved {
-                savedPresidents.presidents.remove(presidentName)
+                savedPresidents.presidents = savedPresidents.presidents.filter({ $0 != presidentName })
               } else {
-                savedPresidents.presidents.insert(presidentName)
+                savedPresidents.presidents.append(presidentName)
               }
             } label: {
               Image(systemName: isSaved ? "star.fill" : "star")

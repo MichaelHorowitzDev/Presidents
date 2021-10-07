@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct HomeView: View {
+  @State private var showingFavorites = false
     var body: some View {
       NavigationView {
         GeometryReader { geo in
@@ -25,6 +26,18 @@ struct HomeView: View {
                   .font(.system(size: min(geo.size.height, geo.size.width) * 0.05))
               }
               .frame(maxHeight: 100)
+            }
+          }
+          .toolbar {
+            ToolbarItem(placement: .navigationBarTrailing) {
+              Button(action: {
+                showingFavorites = true
+              }, label: {
+                Image(systemName: "list.dash")
+              })
+                .sheet(isPresented: $showingFavorites) {
+                  PresidentFavorites()
+                }
             }
           }
         }

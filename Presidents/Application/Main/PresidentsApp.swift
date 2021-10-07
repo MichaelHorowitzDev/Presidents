@@ -11,7 +11,8 @@ import SwiftUI
 struct PresidentsApp: App {
     var body: some Scene {
         WindowGroup {
-            HomeView()
+          HomeView()
+            .environmentObject(SavedPresidents())
         }
     }
 }
