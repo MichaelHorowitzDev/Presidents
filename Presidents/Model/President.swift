@@ -23,7 +23,7 @@ struct PresidentCabinet {
 struct President: Identifiable {
   let id = UUID()
   
-  internal init(name: String, religion: String, nickname: [String]?, career: String, firsts: [String], born: String, died: String?, causeOfDeath: String?, restingPlace: String?, politicalParty: String, parents: [String]?, children: [String]?, spouses: [String]?, vicePresident: [String]?, startTerm: String, endTerm: String, birthPlace: String?, locationDied: String?, secretaryState: [String], secretaryTreasury: [String], secretaryWar: [String]?, attorneyGeneral: [String], secretaryNavy: [String]?, secretaryInterior: [String]?, secretaryAgriculture: [String]?, secretaryCommerce: [String]?, secretaryLabor: [String]?) {
+  internal init(name: String, religion: String, nickname: [String]?, career: String, firsts: [String], born: String, died: String?, causeOfDeath: String?, restingPlace: String?, politicalParty: String, parents: [String]?, children: [String]?, spouses: [String]?, vicePresident: [String]?, startTerm: String, endTerm: String, birthPlace: String?, locationDied: String?, wikipediaPage: URL, secretaryState: [String], secretaryTreasury: [String], secretaryWar: [String]?, attorneyGeneral: [String], secretaryNavy: [String]?, secretaryInterior: [String]?, secretaryAgriculture: [String]?, secretaryCommerce: [String]?, secretaryLabor: [String]?) {
     self.name = name
     self.religion = religion
     self.nickname = nickname
@@ -55,6 +55,7 @@ struct President: Identifiable {
     }
     self.birthPlace = birthPlace
     self.locationDied = locationDied
+    self.wikipediaPage = wikipediaPage
     self.cabinet = PresidentCabinet(vicePresident: vicePresident, secretaryState: secretaryState, secretaryTreasury: secretaryTreasury, secretaryWar: secretaryWar, attorneyGeneral: attorneyGeneral, secretaryNavy: secretaryNavy, secretaryInterior: secretaryInterior, secretaryAgriculture: secretaryAgriculture, secretaryCommerce: secretaryCommerce, secretaryLabor: secretaryLabor)
   }
   
@@ -75,5 +76,6 @@ struct President: Identifiable {
   let endTerm: String
   let birthPlace: String?
   let locationDied: String?
+  let wikipediaPage: URL
   let cabinet: PresidentCabinet
 }

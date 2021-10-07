@@ -38,6 +38,7 @@ func presidentsDataArray() -> [President] {
       endTerm: presidentDict["end_term"] as! String,
       birthPlace: presidentDict["birth_place"] as? String,
       locationDied: presidentDict["location_died"] as? String,
+      wikipediaPage: URL(string: presidentDict["wikipedia"] as! String)!,
       secretaryState: presidentDict["secretary_of_state"] as! [String],
       secretaryTreasury: presidentDict["secretary_of_the_treasury"] as! [String],
       secretaryWar: presidentDict["secretary_of_war"] as? [String],
