@@ -25,9 +25,11 @@
 		8B8C8ACE270CFDA3001E3003 /* Cabinet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8C8ACD270CFDA3001E3003 /* Cabinet.swift */; };
 		8B8C8AD1270D744C001E3003 /* PresidentFavorites.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8C8AD0270D744C001E3003 /* PresidentFavorites.swift */; };
 		8BCB7450270E6F3F00EFAE2B /* presidents_data.json in Resources */ = {isa = PBXBuildFile; fileRef = 8BCB744F270E6F3F00EFAE2B /* presidents_data.json */; };
+		8BCB7457270EAF1400EFAE2B /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8BCB7456270EAF1400EFAE2B /* Launch Screen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8B124160272F98470083EE5B /* Presidents.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Presidents.entitlements; sourceTree = "<group>"; };
 		8B3D971D270AB1A700CA396F /* Presidents.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Presidents.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B3D9720270AB1A700CA396F /* PresidentsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresidentsApp.swift; sourceTree = "<group>"; };
 		8B3D9724270AB1A800CA396F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -47,6 +49,8 @@
 		8B8C8ACD270CFDA3001E3003 /* Cabinet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cabinet.swift; sourceTree = "<group>"; };
 		8B8C8AD0270D744C001E3003 /* PresidentFavorites.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresidentFavorites.swift; sourceTree = "<group>"; };
 		8BCB744F270E6F3F00EFAE2B /* presidents_data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = presidents_data.json; sourceTree = "<group>"; };
+		8BCB7455270EAE6800EFAE2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		8BCB7456270EAF1400EFAE2B /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +83,8 @@
 		8B3D971F270AB1A700CA396F /* Presidents */ = {
 			isa = PBXGroup;
 			children = (
+				8B124160272F98470083EE5B /* Presidents.entitlements */,
+				8BCB7455270EAE6800EFAE2B /* Info.plist */,
 				8B3D9736270AB42F00CA396F /* Model */,
 				8B3D972E270AB27100CA396F /* Application */,
 				8B3D9730270AB2A800CA396F /* Common */,
@@ -111,6 +117,7 @@
 			children = (
 				8B3D9720270AB1A700CA396F /* PresidentsApp.swift */,
 				8B3D9745270AB5CE00CA396F /* HomeView.swift */,
+				8BCB7456270EAF1400EFAE2B /* Launch Screen.storyboard */,
 			);
 			path = Main;
 			sourceTree = "<group>";
@@ -255,6 +262,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8BCB7457270EAF1400EFAE2B /* Launch Screen.storyboard in Resources */,
 				8B3D9728270AB1A800CA396F /* Preview Assets.xcassets in Resources */,
 				8B3D9725270AB1A800CA396F /* Assets.xcassets in Resources */,
 				8B3D9735270AB2F600CA396F /* firsts.json in Resources */,
@@ -410,18 +418,22 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = Presidents/Presidents.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Presidents/Preview Content\"";
 				DEVELOPMENT_TEAM = LR745V324B;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Presidents/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -429,6 +441,7 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.michaelhorowitz.Presidents;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -440,18 +453,22 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = Presidents/Presidents.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Presidents/Preview Content\"";
 				DEVELOPMENT_TEAM = LR745V324B;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Presidents/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -459,6 +476,7 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.michaelhorowitz.Presidents;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

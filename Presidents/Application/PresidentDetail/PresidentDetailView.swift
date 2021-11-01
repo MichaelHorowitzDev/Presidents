@@ -42,8 +42,20 @@ struct PresidentDetailView: View {
     var body: some View {
       if let president = president {
         List {
-          PresidentView(president: president.name)
-          PresidentSignature(president: president.name)
+          HStack {
+            Spacer()
+            PresidentView(president: president.name)
+              .frame(maxWidth: 200)
+              .cornerRadius(10)
+              .padding()
+            Spacer()
+          }
+          HStack {
+            Spacer()
+            PresidentSignature(president: president.name)
+              .frame(maxWidth: 400)
+            Spacer()
+          }
           NavigationLink {
             PresidentialFirsts(firsts: president.firsts)
           } label: {
