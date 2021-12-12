@@ -38,21 +38,8 @@ struct HomeView: View {
                   PresidentFavorites()
                 }
           )
-//          .toolbar {
-//            ToolbarItem(placement: .navigationBarTrailing) {
-//              Button(action: {
-//                showingFavorites = true
-//              }, label: {
-//                Image(systemName: "list.dash")
-//              })
-//                .sheet(isPresented: $showingFavorites) {
-//                  PresidentFavorites()
-//                }
-//            }
-//          }
         }
         .navigationBarTitle("Presidents")
-//        .navigationTitle("Presidents")
       }
       .navigationViewStyle(.stack)
     }

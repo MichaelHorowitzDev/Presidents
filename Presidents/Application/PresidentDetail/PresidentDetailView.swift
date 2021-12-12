@@ -80,18 +80,10 @@ struct PresidentDetailView: View {
           .sheet(isPresented: $showWikipediaLink) {
             SafariView(url: president.wikipediaPage)
           }
- //          Link(destination: president.wikipediaPage) {
-//            HStack {
-//              Spacer()
-//              Text("Wikipedia Page")
-//              Spacer()
-//            }
-//          }
           PresidentInfo(presidentDetail: president)
         }
         .font(Font.title2)
         .navigationBarTitle(president.name)
-//        .navigationTitle(president.name)
         .navigationBarItems(
           trailing:
             Button {
@@ -104,19 +96,6 @@ struct PresidentDetailView: View {
               Image(systemName: isSaved ? "star.fill" : "star")
             }
         )
-//        .toolbar {
-//          ToolbarItem(placement: .navigationBarTrailing) {
-//            Button {
-//              if isSaved {
-//                savedPresidents.presidents = savedPresidents.presidents.filter({ $0 != presidentName })
-//              } else {
-//                savedPresidents.presidents.append(presidentName)
-//              }
-//            } label: {
-//              Image(systemName: isSaved ? "star.fill" : "star")
-//            }
-//          }
-//        }
       } else {
         Text("Error Loading President")
       }

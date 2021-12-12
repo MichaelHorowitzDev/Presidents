@@ -40,7 +40,6 @@ struct PresidentFavorites: View {
             }
           }
           .navigationBarTitle("Favorites")
-//          .navigationTitle("Favorites")
           .navigationBarItems(
             trailing:
               Button {
@@ -50,17 +49,6 @@ struct PresidentFavorites: View {
                   .bold()
               }
           )
-//          .toolbar {
-//            ToolbarItem(placement: .navigationBarTrailing) {
-//              Button {
-//                presentationMode.wrappedValue.dismiss()
-//              } label: {
-//                Text("Done")
-//                  .bold()
-//              }
-//
-//            }
-//          }
         }
       }
     }
