@@ -28,8 +28,7 @@ struct HomeView: View {
               .frame(maxHeight: 100)
             }
           }
-          .toolbar {
-            ToolbarItem(placement: .navigationBarTrailing) {
+          .navigationBarItems(trailing:
               Button(action: {
                 showingFavorites = true
               }, label: {
@@ -38,10 +37,22 @@ struct HomeView: View {
                 .sheet(isPresented: $showingFavorites) {
                   PresidentFavorites()
                 }
-            }
-          }
+          )
+//          .toolbar {
+//            ToolbarItem(placement: .navigationBarTrailing) {
+//              Button(action: {
+//                showingFavorites = true
+//              }, label: {
+//                Image(systemName: "list.dash")
+//              })
+//                .sheet(isPresented: $showingFavorites) {
+//                  PresidentFavorites()
+//                }
+//            }
+//          }
         }
-        .navigationTitle("Presidents")
+        .navigationBarTitle("Presidents")
+//        .navigationTitle("Presidents")
       }
       .navigationViewStyle(.stack)
     }

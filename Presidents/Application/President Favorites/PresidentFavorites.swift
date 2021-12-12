@@ -39,19 +39,28 @@ struct PresidentFavorites: View {
               saved.presidents.remove(atOffsets: indexSet)
             }
           }
-          
-          .navigationTitle("Favorites")
-          .toolbar {
-            ToolbarItem(placement: .navigationBarTrailing) {
+          .navigationBarTitle("Favorites")
+//          .navigationTitle("Favorites")
+          .navigationBarItems(
+            trailing:
               Button {
                 presentationMode.wrappedValue.dismiss()
               } label: {
                 Text("Done")
                   .bold()
               }
-
-            }
-          }
+          )
+//          .toolbar {
+//            ToolbarItem(placement: .navigationBarTrailing) {
+//              Button {
+//                presentationMode.wrappedValue.dismiss()
+//              } label: {
+//                Text("Done")
+//                  .bold()
+//              }
+//
+//            }
+//          }
         }
       }
     }

@@ -21,6 +21,7 @@ struct PresidentialFirsts: View {
         .fixedSize(horizontal: false, vertical: true)
       }
       .font(.title2)
-      .navigationTitle("Presidential Firsts")
+      .navigationBarTitle("Presidential Firsts")
+//      .navigationTitle("Presidential Firsts")
     }
 }
