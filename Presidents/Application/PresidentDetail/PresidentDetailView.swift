@@ -12,7 +12,7 @@ func loadPresidentFromName(name: String, presidentArray: [President]) -> Preside
 }
 
 class SavedPresidents: ObservableObject {
-  @Published var presidents: Array<String> {
+  @Published var presidents: [String] {
     didSet {
       print(presidents)
       UserDefaults.standard.set(Array(presidents), forKey: "savedPresidents")
