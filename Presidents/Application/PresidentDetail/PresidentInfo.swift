@@ -40,7 +40,11 @@ struct PresidentInfo: View {
       PresidentInfoView(title: "Start Term", text: presidentDetail.startTerm)
       PresidentInfoView(title: "End Term", text: presidentDetail.endTerm)
       PresidentInfoView(title: "Parents", text: presidentDetail.parents)
-      PresidentInfoView(title: presidentDetail.spouses?.count == 1 ? "Spouse" : "Spouses", text: presidentDetail.spouses)
+      if presidentDetail.spouses?.count == 1 {
+        PresidentInfoView(title: "Spouse", text: presidentDetail.spouses)
+      } else {
+        PresidentInfoView(title: "Spouses", text: presidentDetail.spouses)
+      }
       PresidentInfoView(title: "Religion", text: presidentDetail.religion)
       PresidentInfoView(title: "Political Party", text: presidentDetail.politicalParty)
       PresidentInfoView(title: "Career", text: presidentDetail.career)
