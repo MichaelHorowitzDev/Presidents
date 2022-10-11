@@ -10,12 +10,12 @@ import Foundation
 let presidentArray = presidentsDataArray()
 
 func presidentsDataArray() -> [President] {
-    let presidentDataURL = Bundle.main.url(forResource: "presidents_data", withExtension: "json")!
-    let presidentData = try! Data(contentsOf: presidentDataURL)
-    let presidentDataDict = try! JSONSerialization.jsonObject(with: presidentData, options: []) as! [String:Any]
-    let presidentFirstsURL = Bundle.main.url(forResource: "firsts", withExtension: "json")!
-    let presidentFirsts = try! Data(contentsOf: presidentFirstsURL)
-    let presidentFirstsDict = try! JSONSerialization.jsonObject(with: presidentFirsts, options: []) as! [String:Any]
+  let presidentDataURL = Bundle.main.url(forResource: "presidents_data", withExtension: "json")!
+  let presidentData = try! Data(contentsOf: presidentDataURL)
+  let presidentDataDict = try! JSONSerialization.jsonObject(with: presidentData, options: []) as! [String:Any]
+  let presidentFirstsURL = Bundle.main.url(forResource: "firsts", withExtension: "json")!
+  let presidentFirsts = try! Data(contentsOf: presidentFirstsURL)
+  let presidentFirstsDict = try! JSONSerialization.jsonObject(with: presidentFirsts, options: []) as! [String:Any]
   
   let presidentArray: [President] = presidentNames.map { president in
     var presidentDict = presidentDataDict[president] as! [String:Any]
