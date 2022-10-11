@@ -32,7 +32,7 @@ struct HomeView: View {
               Button(action: {
                 showingFavorites = true
               }, label: {
-                Image(systemName: "list.dash")
+                Image(systemName: "list.star")
               })
                 .sheet(isPresented: $showingFavorites) {
                   PresidentFavorites()
