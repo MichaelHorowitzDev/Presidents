@@ -21,9 +21,9 @@ struct PresidentCabinetView: View {
   let cabinet: PresidentCabinet
   var body: some View {
     List {
-      if cabinet.vicePresident != nil {
+      if let vicePresident = cabinet.vicePresident {
         Section(header: SectionHeader("Vice President")) {
-          Text(cabinet.vicePresident!.joined(separator: "\n"))
+          Text(vicePresident.joined(separator: "\n"))
         }
       }
       Section(header: SectionHeader("Secretary of State")) {
@@ -32,37 +32,37 @@ struct PresidentCabinetView: View {
       Section(header: SectionHeader("Secretary of the Treasury")) {
         Text(cabinet.secretaryTreasury.joined(separator: "\n"))
       }
-      if cabinet.secretaryWar != nil {
+      if let war = cabinet.secretaryWar {
         Section(header: SectionHeader("Secretary of War")) {
-          Text(cabinet.secretaryWar!.joined(separator: "\n"))
+          Text(war.joined(separator: "\n"))
         }
       }
       Section(header: SectionHeader("Attorney General")) {
         Text(cabinet.attorneyGeneral.joined(separator: "\n"))
       }
-      if cabinet.secretaryNavy != nil {
+      if let navy = cabinet.secretaryNavy {
         Section(header: SectionHeader("Secretary of the Navy")) {
-          Text(cabinet.secretaryNavy!.joined(separator: "\n"))
+          Text(navy.joined(separator: "\n"))
         }
       }
-      if cabinet.secretaryInterior != nil {
+      if let interior = cabinet.secretaryInterior {
         Section(header: SectionHeader("Secretary of the Interior")) {
-          Text(cabinet.secretaryInterior!.joined(separator: "\n"))
+          Text(interior.joined(separator: "\n"))
         }
       }
-      if cabinet.secretaryAgriculture != nil {
+      if let agriculture = cabinet.secretaryAgriculture {
         Section(header: SectionHeader("Secretary of Agriculture")) {
-          Text(cabinet.secretaryAgriculture!.joined(separator: "\n"))
+          Text(agriculture.joined(separator: "\n"))
         }
       }
-      if cabinet.secretaryCommerce != nil {
+      if let commerce = cabinet.secretaryCommerce {
         Section(header: SectionHeader("Secretary of Commerce")) {
-          Text(cabinet.secretaryCommerce!.joined(separator: "\n"))
+          Text(commerce.joined(separator: "\n"))
         }
       }
-      if cabinet.secretaryLabor != nil {
+      if let labor = cabinet.secretaryLabor {
         Section(header: SectionHeader("Secretary of Labor")) {
-          Text(cabinet.secretaryLabor!.joined(separator: "\n"))
+          Text(labor.joined(separator: "\n"))
         }
       }
     }
