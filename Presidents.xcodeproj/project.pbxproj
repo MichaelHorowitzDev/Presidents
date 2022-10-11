@@ -22,6 +22,7 @@
 		8B3D974B270ABFFD00CA396F /* PresidentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3D974A270ABFFD00CA396F /* PresidentView.swift */; };
 		8B3D974D270AC01B00CA396F /* PresidentInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3D974C270AC01B00CA396F /* PresidentInfo.swift */; };
 		8B3D9751270AC0A000CA396F /* PresidentSignature.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3D9750270AC0A000CA396F /* PresidentSignature.swift */; };
+		8B62322E28F5B90D004D1D75 /* JSONCoder+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B62322D28F5B90D004D1D75 /* JSONCoder+Extensions.swift */; };
 		8B8C8ACB270CFBB0001E3003 /* PresidentialFirsts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8C8ACA270CFBB0001E3003 /* PresidentialFirsts.swift */; };
 		8B8C8ACE270CFDA3001E3003 /* Cabinet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8C8ACD270CFDA3001E3003 /* Cabinet.swift */; };
 		8B8C8AD1270D744C001E3003 /* PresidentFavorites.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8C8AD0270D744C001E3003 /* PresidentFavorites.swift */; };
@@ -46,6 +47,7 @@
 		8B3D974A270ABFFD00CA396F /* PresidentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresidentView.swift; sourceTree = "<group>"; };
 		8B3D974C270AC01B00CA396F /* PresidentInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresidentInfo.swift; sourceTree = "<group>"; };
 		8B3D9750270AC0A000CA396F /* PresidentSignature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresidentSignature.swift; sourceTree = "<group>"; };
+		8B62322D28F5B90D004D1D75 /* JSONCoder+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "JSONCoder+Extensions.swift"; sourceTree = "<group>"; };
 		8B8C8ACA270CFBB0001E3003 /* PresidentialFirsts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresidentialFirsts.swift; sourceTree = "<group>"; };
 		8B8C8ACD270CFDA3001E3003 /* Cabinet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cabinet.swift; sourceTree = "<group>"; };
 		8B8C8AD0270D744C001E3003 /* PresidentFavorites.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresidentFavorites.swift; sourceTree = "<group>"; };
@@ -141,6 +143,7 @@
 		8B3D9732270AB2B100CA396F /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
+				8B62322D28F5B90D004D1D75 /* JSONCoder+Extensions.swift */,
 				8B124161272FA0B20083EE5B /* Font+Extensions.swift */,
 			);
 			path = Extensions;
@@ -278,6 +281,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8B8C8ACE270CFDA3001E3003 /* Cabinet.swift in Sources */,
+				8B62322E28F5B90D004D1D75 /* JSONCoder+Extensions.swift in Sources */,
 				8B3D973C270AB44E00CA396F /* PresidentArray.swift in Sources */,
 				8B8C8ACB270CFBB0001E3003 /* PresidentialFirsts.swift in Sources */,
 				8B3D9738270AB43700CA396F /* President.swift in Sources */,
