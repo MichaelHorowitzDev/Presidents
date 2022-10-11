@@ -18,7 +18,7 @@ class SavedPresidents: ObservableObject {
       UserDefaults.standard.set(Array(presidents), forKey: "savedPresidents")
     }
   }
-  
+
   init() {
     if let presidents = UserDefaults.standard.array(forKey: "savedPresidents") as? [String] {
       self.presidents = presidents

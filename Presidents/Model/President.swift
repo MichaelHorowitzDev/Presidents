@@ -34,7 +34,7 @@ struct PresidentCabinet: Codable {
 }
 
 struct President: Identifiable, Codable {
-  let id = UUID()  
+  let id = UUID()
   let name: String
   let religion: String
   let nickname: [String]?
@@ -54,7 +54,6 @@ struct President: Identifiable, Codable {
   let locationDied: String?
   let wikipediaPage: URL
   let cabinet: PresidentCabinet
-
 
   init(from decoder: Decoder) throws {
     func convertDate(_ date: String) -> String? {

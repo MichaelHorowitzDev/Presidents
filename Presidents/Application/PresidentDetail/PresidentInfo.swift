@@ -10,7 +10,7 @@ import SwiftUI
 struct PresidentInfoView: View {
   let title: String
   let text: String?
-  
+
   init(title: String, text: String?) {
     self.title = title
     self.text = text
@@ -51,8 +51,6 @@ struct PresidentInfo: View {
       PresidentInfoView(title: "Location Died", text: presidentDetail.locationDied)
       PresidentInfoView(title: "Cause of Death", text: presidentDetail.causeOfDeath)
       PresidentInfoView(title: "Resting Place", text: presidentDetail.restingPlace)
-      
-      
     }
   }
 }

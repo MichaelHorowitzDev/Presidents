@@ -17,7 +17,7 @@ func presidentsDataArray() -> [President] {
   let presidentFirstsURL = Bundle.main.url(forResource: "firsts", withExtension: "json")!
   let presidentFirsts = try! Data(contentsOf: presidentFirstsURL)
   let presidentFirstsDict = try! JSONSerialization.jsonObject(with: presidentFirsts, options: []) as! [String: Any]
-  
+
   let presidentArray: [President] = presidentNames.map { president in
     var presidentDict = presidentDataDict[president] as! [String: Any]
     presidentDict["name"] = president
