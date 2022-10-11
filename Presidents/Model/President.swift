@@ -81,24 +81,14 @@ struct President: Identifiable, Codable {
     self.parents = try container.decodeIfPresent([String].self, forKey: .parents)
     self.children = try container.decodeIfPresent([String].self, forKey: .children)
     self.spouses = try container.decodeIfPresent([String].self, forKey: .spouses)
-    let startTerm = try container.decode(String.self, forKey: .startTerm)
-    if startTerm.contains("\n") {
-      let array = startTerm.split(separator: "\n").map({ String($0) }).map {
-        convertDate($0) ?? ""
-      }
-      self.startTerm = array.joined(separator: "\n")
-    } else {
-      self.startTerm = convertDate(startTerm) ?? ""
-    }
-    let endTerm = try container.decode(String.self, forKey: .endTerm)
-    if endTerm.contains("\n") {
-      let array = endTerm.split(separator: "\n").map({ String($0) }).map {
-        convertDate($0) ?? ""
-      }
-      self.endTerm = array.joined(separator: "\n")
-    } else {
-      self.endTerm = convertDate(endTerm) ?? ""
-    }
+    self.startTerm = try container.decode(String.self, forKey: .startTerm)
+      .split(separator: "\n")
+      .compactMap { convertDate(String($0)) }
+      .joined(separator: "\n")
+    self.endTerm = try container.decode(String.self, forKey: .endTerm)
+      .split(separator: "\n")
+      .compactMap { convertDate(String($0)) }
+      .joined(separator: "\n")
     self.birthPlace = try container.decodeIfPresent(String.self, forKey: .birthPlace)
     self.locationDied = try container.decodeIfPresent(String.self, forKey: .locationDied)
     self.wikipediaPage = try container.decode(URL.self, forKey: .wikipediaPage)
