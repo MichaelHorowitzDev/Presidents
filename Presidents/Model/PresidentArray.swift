@@ -31,7 +31,7 @@ func presidentsDataArray() -> [President] {
       "secretary_of_the_interior": presidentDict["secretary_of_the_interior"],
       "secretary_of_agriculture": presidentDict["secretary_of_agriculture"],
       "secretary_of_commerce": presidentDict["secretary_of_commerce"],
-      "secretary_of_labor": presidentDict["secretary_of_labor"],
+      "secretary_of_labor": presidentDict["secretary_of_labor"]
     ]
     let data = try! JSONSerialization.data(withJSONObject: presidentDict)
     return try! JSONDecoder().decode(President.self, from: data)
