@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct PresidentCabinet: Codable {
+struct PresidentCabinet: Codable, Hashable {
   let vicePresident: [String]?
   let secretaryState: [String]
   let secretaryTreasury: [String]
@@ -33,7 +33,7 @@ struct PresidentCabinet: Codable {
   }
 }
 
-struct President: Identifiable, Codable {
+struct President: Identifiable, Codable, Hashable {
   let id = UUID()
   let name: String
   let religion: String

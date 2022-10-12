@@ -12,11 +12,9 @@
 		8B3D9721270AB1A700CA396F /* PresidentsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3D9720270AB1A700CA396F /* PresidentsApp.swift */; };
 		8B3D9725270AB1A800CA396F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B3D9724270AB1A800CA396F /* Assets.xcassets */; };
 		8B3D9728270AB1A800CA396F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B3D9727270AB1A800CA396F /* Preview Assets.xcassets */; };
-		8B3D9735270AB2F600CA396F /* firsts.json in Resources */ = {isa = PBXBuildFile; fileRef = 8B3D9734270AB2F600CA396F /* firsts.json */; };
 		8B3D9738270AB43700CA396F /* President.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3D9737270AB43700CA396F /* President.swift */; };
 		8B3D973A270AB44000CA396F /* vice_presidents.json in Resources */ = {isa = PBXBuildFile; fileRef = 8B3D9739270AB44000CA396F /* vice_presidents.json */; };
 		8B3D973C270AB44E00CA396F /* PresidentArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3D973B270AB44E00CA396F /* PresidentArray.swift */; };
-		8B3D9740270AB46200CA396F /* President Names.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3D973F270AB46200CA396F /* President Names.swift */; };
 		8B3D9746270AB5CE00CA396F /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3D9745270AB5CE00CA396F /* HomeView.swift */; };
 		8B3D9749270ABE4A00CA396F /* PresidentDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3D9748270ABE4A00CA396F /* PresidentDetailView.swift */; };
 		8B3D974B270ABFFD00CA396F /* PresidentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3D974A270ABFFD00CA396F /* PresidentView.swift */; };
@@ -37,11 +35,9 @@
 		8B3D9720270AB1A700CA396F /* PresidentsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresidentsApp.swift; sourceTree = "<group>"; };
 		8B3D9724270AB1A800CA396F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8B3D9727270AB1A800CA396F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		8B3D9734270AB2F600CA396F /* firsts.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = firsts.json; sourceTree = "<group>"; };
 		8B3D9737270AB43700CA396F /* President.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = President.swift; sourceTree = "<group>"; };
 		8B3D9739270AB44000CA396F /* vice_presidents.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = vice_presidents.json; sourceTree = "<group>"; };
 		8B3D973B270AB44E00CA396F /* PresidentArray.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PresidentArray.swift; sourceTree = "<group>"; };
-		8B3D973F270AB46200CA396F /* President Names.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "President Names.swift"; sourceTree = "<group>"; };
 		8B3D9745270AB5CE00CA396F /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		8B3D9748270ABE4A00CA396F /* PresidentDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresidentDetailView.swift; sourceTree = "<group>"; };
 		8B3D974A270ABFFD00CA396F /* PresidentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresidentView.swift; sourceTree = "<group>"; };
@@ -153,7 +149,6 @@
 			isa = PBXGroup;
 			children = (
 				8BCB744F270E6F3F00EFAE2B /* presidents_data.json */,
-				8B3D9734270AB2F600CA396F /* firsts.json */,
 				8B3D9739270AB44000CA396F /* vice_presidents.json */,
 				8B3D9724270AB1A800CA396F /* Assets.xcassets */,
 			);
@@ -165,7 +160,6 @@
 			children = (
 				8B3D9737270AB43700CA396F /* President.swift */,
 				8B3D973B270AB44E00CA396F /* PresidentArray.swift */,
-				8B3D973F270AB46200CA396F /* President Names.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -268,7 +262,6 @@
 			files = (
 				8B3D9728270AB1A800CA396F /* Preview Assets.xcassets in Resources */,
 				8B3D9725270AB1A800CA396F /* Assets.xcassets in Resources */,
-				8B3D9735270AB2F600CA396F /* firsts.json in Resources */,
 				8BCB7450270E6F3F00EFAE2B /* presidents_data.json in Resources */,
 				8B3D973A270AB44000CA396F /* vice_presidents.json in Resources */,
 			);
@@ -307,7 +300,6 @@
 				8B8C8ACB270CFBB0001E3003 /* PresidentialFirsts.swift in Sources */,
 				8B3D9738270AB43700CA396F /* President.swift in Sources */,
 				8B124164272FA2E10083EE5B /* SafariView.swift in Sources */,
-				8B3D9740270AB46200CA396F /* President Names.swift in Sources */,
 				8B3D9746270AB5CE00CA396F /* HomeView.swift in Sources */,
 				8B8C8AD1270D744C001E3003 /* PresidentFavorites.swift in Sources */,
 				8B3D974D270AC01B00CA396F /* PresidentInfo.swift in Sources */,
