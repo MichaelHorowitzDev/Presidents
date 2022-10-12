@@ -82,7 +82,7 @@ struct PresidentDetailView: View {
           }
           PresidentInfo(presidentDetail: president)
         }
-        .font(Font.title2)
+        .font(.title2)
         .navigationBarTitle(president.name)
         .toolbar {
           ToolbarItem(placement: .navigationBarTrailing) {
