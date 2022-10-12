@@ -84,18 +84,19 @@ struct PresidentDetailView: View {
         }
         .font(Font.title2)
         .navigationBarTitle(president.name)
-        .navigationBarItems(
-          trailing:
+        .toolbar {
+          ToolbarItem(placement: .navigationBarTrailing) {
             Button {
               if isSaved {
-                savedPresidents.presidents = savedPresidents.presidents.filter({ $0 != presidentName })
+                savedPresidents.presidents.removeAll { $0 == presidentName }
               } else {
                 savedPresidents.presidents.append(presidentName)
               }
             } label: {
               Image(systemName: isSaved ? "star.fill" : "star")
             }
-        )
+          }
+        }
       } else {
         Text("Error Loading President")
       }
