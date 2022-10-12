@@ -12,22 +12,38 @@ struct HomeView: View {
     var body: some View {
       NavigationView {
         GeometryReader { geo in
-          List(0..<presidentNames.count, id: \.self) { name in
+          List(presidentArray, id: \.self) { president in
             NavigationLink {
-              PresidentDetailView(presidentName: presidentNames[name])
+              PresidentDetailView(presidentName: president.name)
             } label: {
               HStack {
-                Image("\(name+1)_Preview")
+                Image("\(president.name)_Preview")
                   .resizable()
                   .scaledToFit()
                   .clipShape(Circle())
                 Spacer()
-                Text(presidentNames[name])
+                Text(president.name)
                   .font(.system(size: min(geo.size.height, geo.size.width) * 0.05))
               }
               .frame(maxHeight: 100)
             }
           }
+//          List(0..<presidentNames.count, id: \.self) { name in
+//            NavigationLink {
+//              PresidentDetailView(presidentName: presidentNames[name])
+//            } label: {
+//              HStack {
+//                Image("\(name+1)_Preview")
+//                  .resizable()
+//                  .scaledToFit()
+//                  .clipShape(Circle())
+//                Spacer()
+//                Text(presidentNames[name])
+//                  .font(.system(size: min(geo.size.height, geo.size.width) * 0.05))
+//              }
+//              .frame(maxHeight: 100)
+//            }
+//          }
           .navigationBarItems(trailing:
               Button(action: {
                 showingFavorites = true
