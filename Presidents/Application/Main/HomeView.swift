@@ -28,22 +28,6 @@ struct HomeView: View {
               .frame(maxHeight: 100)
             }
           }
-//          List(0..<presidentNames.count, id: \.self) { name in
-//            NavigationLink {
-//              PresidentDetailView(presidentName: presidentNames[name])
-//            } label: {
-//              HStack {
-//                Image("\(name+1)_Preview")
-//                  .resizable()
-//                  .scaledToFit()
-//                  .clipShape(Circle())
-//                Spacer()
-//                Text(presidentNames[name])
-//                  .font(.system(size: min(geo.size.height, geo.size.width) * 0.05))
-//              }
-//              .frame(maxHeight: 100)
-//            }
-//          }
           .navigationBarItems(trailing:
               Button(action: {
                 showingFavorites = true
