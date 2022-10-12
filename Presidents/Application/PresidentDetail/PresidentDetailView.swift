@@ -22,7 +22,7 @@ class SavedPresidents: ObservableObject {
     if let presidents = UserDefaults.standard.array(forKey: "savedPresidents") as? [String] {
       self.presidents = presidents
     } else {
-      self.presidents = [String]()
+      self.presidents = []
     }
   }
 }
