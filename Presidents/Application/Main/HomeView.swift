@@ -28,16 +28,18 @@ struct HomeView: View {
               .frame(maxHeight: 100)
             }
           }
-          .navigationBarItems(trailing:
-              Button(action: {
+          .toolbar {
+            ToolbarItem(placement: .navigationBarTrailing) {
+              Button {
                 showingFavorites = true
-              }, label: {
+              } label: {
                 Image(systemName: "list.star")
-              })
-                .sheet(isPresented: $showingFavorites) {
-                  PresidentFavorites()
-                }
-          )
+              }
+              .sheet(isPresented: $showingFavorites) {
+                PresidentFavorites()
+              }
+            }
+          }
         }
         .navigationBarTitle("Presidents")
       }
