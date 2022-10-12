@@ -19,7 +19,7 @@ struct PresidentFavorites: View {
                 PresidentDetailView(presidentName: name)
               } label: {
                 HStack {
-                  if let image = UIImage(named: "\((presidentNames.firstIndex(of: name) ?? -1)+1)_Preview") {
+                  if let image = UIImage(named: "\(name)_Preview") {
                     Image(uiImage: image)
                       .resizable()
                       .scaledToFit()
