@@ -15,7 +15,7 @@ class SavedPresidents: ObservableObject {
   @Published var presidents: [String] {
     didSet {
       print(presidents)
-      UserDefaults.standard.set(Array(presidents), forKey: "savedPresidents")
+      UserDefaults.standard.set(presidents, forKey: "savedPresidents")
     }
   }
 
