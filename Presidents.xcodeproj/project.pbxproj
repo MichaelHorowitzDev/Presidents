@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8B124162272FA0B20083EE5B /* Font+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B124161272FA0B20083EE5B /* Font+Extensions.swift */; };
 		8B124164272FA2E10083EE5B /* SafariView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B124163272FA2E10083EE5B /* SafariView.swift */; };
 		8B3D9721270AB1A700CA396F /* PresidentsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3D9720270AB1A700CA396F /* PresidentsApp.swift */; };
 		8B3D9725270AB1A800CA396F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B3D9724270AB1A800CA396F /* Assets.xcassets */; };
@@ -29,7 +28,6 @@
 
 /* Begin PBXFileReference section */
 		8B124160272F98470083EE5B /* Presidents.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Presidents.entitlements; sourceTree = "<group>"; };
-		8B124161272FA0B20083EE5B /* Font+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Font+Extensions.swift"; sourceTree = "<group>"; };
 		8B124163272FA2E10083EE5B /* SafariView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariView.swift; sourceTree = "<group>"; };
 		8B3D971D270AB1A700CA396F /* Presidents.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Presidents.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B3D9720270AB1A700CA396F /* PresidentsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresidentsApp.swift; sourceTree = "<group>"; };
@@ -140,7 +138,6 @@
 			isa = PBXGroup;
 			children = (
 				8B62322D28F5B90D004D1D75 /* JSONCoder+Extensions.swift */,
-				8B124161272FA0B20083EE5B /* Font+Extensions.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -305,7 +302,6 @@
 				8B3D974D270AC01B00CA396F /* PresidentInfo.swift in Sources */,
 				8B3D9721270AB1A700CA396F /* PresidentsApp.swift in Sources */,
 				8B3D9751270AC0A000CA396F /* PresidentSignature.swift in Sources */,
-				8B124162272FA0B20083EE5B /* Font+Extensions.swift in Sources */,
 				8B3D9749270ABE4A00CA396F /* PresidentDetailView.swift in Sources */,
 				8B3D974B270ABFFD00CA396F /* PresidentView.swift in Sources */,
 			);
